@@ -8,6 +8,7 @@ from app import app
 
 player_df = pd.read_csv('https://raw.githubusercontent.com/JimKing100/NFL-Live/master/data/players_full1.csv')
 
+weeks = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 players = player_df['name'].values.tolist()
 
 style = {'padding': '1.5em'}
@@ -15,8 +16,18 @@ style = {'padding': '1.5em'}
 layout = html.Div([
     dcc.Markdown("""
         ### Trade
-        Select Player 1 to trade for Player 2.
+        Select a Week then a Player 1 to trade for Player 2.
     """),
+
+    html.Div([
+        dcc.Markdown('#### Week'),
+        dcc.Dropdown(
+            id='week_no',
+            options=[{'label': week, 'value': week} for week in weeks],
+            value = "",
+            placeholder = "Select Week"
+        ),
+    ], style=style),
 
     html.Div([
         dcc.Markdown('#### Player 1'),
@@ -45,22 +56,28 @@ layout = html.Div([
 
 @app.callback(
     Output('prediction-content', 'children'),
-    [Input('player1', 'value'),
+    [Input('week_no', 'value'),
+     Input('player1', 'value'),
      Input('player2', 'value')
      ])
 
 
-def predict(player1, player2):
-
-    pred_df = pd.read_csv('https://raw.githubusercontent.com/JimKing100/NFL-Live/master/data/predictions-week1.csv')
+def predict(week_no, player1, player2):
 
     if (player1 != "") & (player2 != ""):
-        player1_pred = pred_df['week1-pred'].loc[(pred_df['name'] == player1)].iloc[0]
-        player2_pred = pred_df['week1-pred'].loc[(pred_df['name'] == player2)].iloc[0]
+        filename = 'https://raw.githubusercontent.com/JimKing100/NFL-Live/master/data/predictions-week' + str(week_no) + '.csv'
+        pred_df = pd.read_csv(filename)
+
+        col_name = 'week' + str(week_no) + '-pred'
+
+        player1_pred = pred_df[col_name].loc[(pred_df['name'] == player1)].iloc[0]
+        player2_pred = pred_df[col_name].loc[(pred_df['name'] == player2)].iloc[0]
+
         if player1_pred > player2_pred:
             good_bad = 'Bad Trade'
         else:
             good_bad = 'Good Trade'
+            
         results = good_bad + ' - ' + player1 + ' Predicted Points = ' + str(player1_pred) + ', ' + player2 + ' Predicted Points = ' + str(player2_pred)
     else:
         results = ""
