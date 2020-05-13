@@ -20,3 +20,4 @@ pytz==2020.1
 retrying==1.3.3
 six==1.14.0
 werkzeug==1.0.1
+gunicorn
