@@ -124,12 +124,18 @@ layout = html.Div([
             html.Td(id='c1_break'),
             html.Td(),
             html.Td(id='c2_break'),
-            # Row 6 - Totals
+            # Row 5 - Predicted Totals
             html.Tr(),
             html.Td(id='c_tot', style={'fontWeight': 'bold'}),
             html.Td(id='c1_tot', style={'fontWeight': 'bold'}),
             html.Td(),
-            html.Td(id='c2_tot', style={'fontWeight': 'bold'})
+            html.Td(id='c2_tot', style={'fontWeight': 'bold'}),
+            # Row 6 - Actual Totals
+            html.Tr(),
+            html.Td(id='a_tot', style={'fontWeight': 'bold'}),
+            html.Td(id='a1_tot', style={'fontWeight': 'bold'}),
+            html.Td(),
+            html.Td(id='a2_tot', style={'fontWeight': 'bold'})
         ], style=style),
     ], style=style),
 ])
@@ -149,7 +155,10 @@ layout = html.Div([
      Output('c1_break', 'children'),
      Output('c2_break', 'children'),
      Output('c1_tot', 'children'),
-     Output('c2_tot', 'children')],
+     Output('c2_tot', 'children'),
+     Output('a_tot', 'children'),
+     Output('a1_tot', 'children'),
+     Output('a2_tot', 'children')],
     [Input('submit', 'n_clicks')],
     [State('week_no', 'value'),
      State('player1', 'value'),
@@ -160,59 +169,105 @@ def predict(n_clicks, week_no, player1, player2, player3, player4):
     if (player1 != "") & (player2 != "") & (player1 is not None) & (player2 is not None):
         filename = 'https://raw.githubusercontent.com/JimKing100/NFL-Live/master/data/predictions-week' + str(week_no) + '.csv'
         pred_df = pd.read_csv(filename)
-
+        # Predicted Points
         col_name = 'week' + str(week_no) + '-pred'
         col1_total = 0
         col2_total = 0
-        col_total = 'Total Predicted Points'
+        col_total = 'Total Predicted Points for Remaining Season'
         col1_break = '-----'
         col2_break = '-----'
-
+        # Actual Points
+        act_name = 'week' + str(week_no) + '-act'
+        act1_total = 0
+        act2_total = 0
+        act_total = 'Total Actual Points for Remaining Season'
+        # Get Predicted Points for Players 1 & 2
         player1_pred = pred_df[col_name].loc[(pred_df['name'] == player1)].iloc[0]
         player2_pred = pred_df[col_name].loc[(pred_df['name'] == player2)].iloc[0]
         player3_pred = 0
         player4_pred = 0
+        # Get Actual Points for Players 1 & 2
+        player1_act = pred_df[act_name].loc[(pred_df['name'] == player1)].iloc[0]
+        player2_act = pred_df[act_name].loc[(pred_df['name'] == player2)].iloc[0]
+        player3_act = 0
+        player4_act = 0
+        # Get Predicted and Actual Points for 3 & 4
         if (player3 != "") & (player3 is not None):
             player3_pred = pred_df[col_name].loc[(pred_df['name'] == player3)].iloc[0]
+            player3_act = pred_df[act_name].loc[(pred_df['name'] == player3)].iloc[0]
         if (player4 != "") & (player4 is not None):
             player4_pred = pred_df[col_name].loc[(pred_df['name'] == player4)].iloc[0]
-
+            player4_act = pred_df[act_name].loc[(pred_df['name'] == player4)].iloc[0]
+        # Calculate Total Predicted and Actual Points
         col1_total = player1_pred + player3_pred
         col2_total = player2_pred + player4_pred
+        act1_total = player1_act + player3_act
+        act2_total = player2_act + player4_act
+        act1_total = int(act1_total)
+        act2_total = int(act2_total)
+        # Determine Good or Bad Trade (Predicted)
         if col1_total > col2_total:
             good_bad = 'Bad Trade'
         else:
             good_bad = 'Good Trade'
-
+        # Get Player Info
         if (player1 != "") & (player1 is not None):
             position = player_df['position1'].loc[(player_df['name'] == player1)].iloc[0]
             team = player_df['cteam'].loc[(player_df['name'] == player1)].iloc[0]
             rank = pred_df['rank-cur'].loc[(pred_df['name'] == player1)].iloc[0]
-            player1_out = player1 + ', ' + position + ', ' + team + ', Ranking:' + str(rank)
+            rank = int(rank)
+            injury_week = player_df['injury_week'].loc[(player_df['name'] == player1)].iloc[0]
+            if (injury_week <= week_no):
+                injury = ' INJURED'
+            else:
+                injury = ""
+            player1_out = player1 + ', ' + position + ', ' + team + \
+                ', Ranking: ' + str(rank) + injury
         else:
             player1_out = None
         if (player2 != "") & (player2 is not None):
             position = player_df['position1'].loc[(player_df['name'] == player2)].iloc[0]
             team = player_df['cteam'].loc[(player_df['name'] == player2)].iloc[0]
             rank = pred_df['rank-cur'].loc[(pred_df['name'] == player2)].iloc[0]
-            player2_out = player2 + ', ' + position + ', ' + team + ', Ranking:' + str(rank)
+            rank = int(rank)
+            injury_week = player_df['injury_week'].loc[(player_df['name'] == player2)].iloc[0]
+            if (injury_week <= week_no):
+                injury = ' INJURED'
+            else:
+                injury = ""
+            player2_out = player2 + ', ' + position + ', ' + team + \
+                ', Ranking: ' + str(rank) + injury
         else:
             player2_out = None
         if (player3 != "") & (player3 is not None):
             position = player_df['position1'].loc[(player_df['name'] == player3)].iloc[0]
             team = player_df['cteam'].loc[(player_df['name'] == player3)].iloc[0]
             rank = pred_df['rank-cur'].loc[(pred_df['name'] == player3)].iloc[0]
-            player3_out = player3 + ', ' + position + ', ' + team + ', Ranking:' + str(rank)
+            rank = int(rank)
+            injury_week = player_df['injury_week'].loc[(player_df['name'] == player3)].iloc[0]
+            if (injury_week <= week_no):
+                injury = ' INJURED'
+            else:
+                injury = ""
+            player3_out = player3 + ', ' + position + ', ' + team + \
+                ', Ranking: ' + str(rank) + injury
         else:
             player3_out = None
         if (player4 != "") & (player4 is not None):
             position = player_df['position1'].loc[(player_df['name'] == player4)].iloc[0]
             team = player_df['cteam'].loc[(player_df['name'] == player4)].iloc[0]
             rank = pred_df['rank-cur'].loc[(pred_df['name'] == player4)].iloc[0]
-            player4_out = player4 + ', ' + position + ', ' + team + ', Ranking:' + str(rank)
+            rank = int(rank)
+            injury_week = player_df['injury_week'].loc[(player_df['name'] == player4)].iloc[0]
+            if (injury_week <= week_no):
+                injury = ' INJURED'
+            else:
+                injury = ""
+            player4_out = player4 + ', ' + position + ', ' + team + \
+                ', Ranking: ' + str(rank) + injury
         else:
             player4_out = None
-
+    # Suppress Data for No Trade
     else:
         good_bad = ""
         player1_out = ""
@@ -228,6 +283,9 @@ def predict(n_clicks, week_no, player1, player2, player3, player4):
         col2_break = None
         col1_total = None
         col2_total = None
+        act_total = None
+        act1_total = None
+        act2_total = None
     if (player3 == "") | (player3 is None):
         player3_pred = None
     if (player4 == "") | (player4 is None):
@@ -235,4 +293,4 @@ def predict(n_clicks, week_no, player1, player2, player3, player4):
 
     return good_bad, player1_out, player2_out, player3_out, player4_out, player1_pred, \
         player2_pred, player3_pred, player4_pred, col_total, col1_break, \
-        col2_break, col1_total, col2_total
+        col2_break, col1_total, col2_total, act_total, act1_total, act2_total
