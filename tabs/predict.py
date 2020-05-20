@@ -132,10 +132,10 @@ layout = html.Div([
             html.Td(id='c2_tot', style={'fontWeight': 'bold'}),
             # Row 6 - Actual Totals
             html.Tr(),
-            html.Td(id='a_tot', style={'fontWeight': 'bold'}),
-            html.Td(id='a1_tot', style={'fontWeight': 'bold'}),
-            html.Td(),
-            html.Td(id='a2_tot', style={'fontWeight': 'bold'})
+            html.Td(id='a_tot', style={'color': 'blue'}),
+            html.Td(id='a1_tot', style={'color': 'blue'}),
+            html.Td(id='accuracy', style={'color': 'blue'}),
+            html.Td(id='a2_tot', style={'color': 'blue'})
         ], style=style),
     ], style=style),
 ])
@@ -158,6 +158,7 @@ layout = html.Div([
      Output('c2_tot', 'children'),
      Output('a_tot', 'children'),
      Output('a1_tot', 'children'),
+     Output('accuracy', 'children'),
      Output('a2_tot', 'children')],
     [Input('submit', 'n_clicks')],
     [State('week_no', 'value'),
@@ -208,8 +209,16 @@ def predict(n_clicks, week_no, player1, player2, player3, player4):
         # Determine Good or Bad Trade (Predicted)
         if col1_total > col2_total:
             good_bad = 'Bad Trade'
+            if act1_total > act2_total:
+                accuracy = 'Prediction is Accurate'
+            else:
+                accuracy = 'Prediction is Inaccurate'
         else:
             good_bad = 'Good Trade'
+            if act1_total <= act2_total:
+                accuracy = 'Prediction is Accurate'
+            else:
+                accuracy = 'Prediction is Inaccurate'
         # Get Player Info
         if (player1 != "") & (player1 is not None):
             position = player_df['position1'].loc[(player_df['name'] == player1)].iloc[0]
@@ -270,6 +279,7 @@ def predict(n_clicks, week_no, player1, player2, player3, player4):
     # Suppress Data for No Trade
     else:
         good_bad = ""
+        accuracy = ""
         player1_out = ""
         player2_out = ""
         player3_out = ""
@@ -293,4 +303,4 @@ def predict(n_clicks, week_no, player1, player2, player3, player4):
 
     return good_bad, player1_out, player2_out, player3_out, player4_out, player1_pred, \
         player2_pred, player3_pred, player4_pred, col_total, col1_break, \
-        col2_break, col1_total, col2_total, act_total, act1_total, act2_total
+        col2_break, col1_total, col2_total, act_total, act1_total, accuracy, act2_total
