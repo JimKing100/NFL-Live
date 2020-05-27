@@ -8,10 +8,10 @@ from tabs import predict, explain, evaluate
 style = {'maxWidth': '960px', 'margin': 'auto'}
 
 app.layout = html.Div([
-    dcc.Markdown('NFL Fantasy Football Trade Analyzer'),
+    dcc.Markdown('### NFL Fantasy Football Trade Analyzer'),
     dcc.Tabs(id='tabs', value='tab-predict', children=[
-        dcc.Tab(label='Predict', value='tab-predict'),
-        dcc.Tab(label='Explain', value='tab-explain'),
+        dcc.Tab(label='Trade', value='tab-predict'),
+        dcc.Tab(label='Methodology', value='tab-explain'),
         dcc.Tab(label='Evaluate', value='tab-evaluate'),
     ]),
     html.Div(id='tabs-content'),
