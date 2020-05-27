@@ -62,6 +62,16 @@ layout = html.Div([
     dcc.Markdown("""
     ### An Evaluation of the Model Predictions
 
+    The Recurrent Neural Network - LSTM Model(NN) outperforms both the baseline Average and ARIMA models.  While
+    both the NN and ARIMA models have lower MAEs they all start to converge about halfway through the season as
+    all models incorporate the current season actual points and the number of future predictions are reduced thereby
+    increasing accuracy in all the models.
+
+    The real accuracy of the models are shown in the *Percent of Correct Predictions* graph.  For each week, the predicted
+    outcome of a "good" or "bad" trade for each player is calculated against every other player and compared with the
+    actual outcome.  The NN clearly makes better predictions over the other models with an overall average correct percentage
+    of 85.59% for the 2019 season compared with 84.72% for an ARIMA model and 83.17% for the baseline average model.
+
     """),
 
     dcc.Graph(figure=fig),
