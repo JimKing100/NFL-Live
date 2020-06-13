@@ -1,0 +1,761 @@
+﻿pid,gid,year,week,type,bc,first_bc,last_bc,name_bc,psr,first_psr,last_psr,name_psr,trg,first_trg,last_trg,name_trg,conv
+456,3,2000,1,PASS,,,,,RC-2800,Randall,Cunningham,Randall Cunningham,RI-0200,Raghib,Ismail,Raghib Ismail,1
+1408,9,2000,1,RUSH,JS-6500,James,Stewart,James Stewart,,,,,,,,,1
+2528,16,2000,2,PASS,,,,,TB-0200,Tony,Banks,Tony Banks,BC-1600,Ben,Coates,Ben Coates,1
+2779,17,2000,2,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,TD-0800,Tyrone,Davis,Tyrone Davis,1
+3052,19,2000,2,RUSH,MA-1000,Mike,Anderson,Mike Anderson,,,,,,,,,1
+4071,25,2000,2,PASS,,,,,RM-4300,Rick,Mirer,Rick Mirer,TO-0200,Terrell,Owens,Terrell Owens,1
+9004,56,2000,4,PASS,,,,,VT-0200,Vinny,Testaverde,Vinny Testaverde,LC-0800,Laveranues,Coles,Laveranues Coles,1
+9461,59,2000,5,RUSH,EJ-0200,Edgerrin,James,Edgerrin James,,,,,,,,,1
+9569,60,2000,5,PASS,,,,,TA-0300,Troy,Aikman,Troy Aikman,JH-1800,Jackie,Harris,Jackie Harris,1
+10136,63,2000,5,PASS,,,,,BG-1900,Brian,Griese,Brian Griese,EM-0500,Ed,McCaffrey,Ed McCaffrey,1
+11427,71,2000,5,PASS,,,,,DM-2200,Donovan,McNabb,Donovan McNabb,TS-1900,Torrance,Small,Torrance Small,1
+12586,78,2000,6,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,DD-2600,Donald,Driver,Donald Driver,1
+13558,84,2000,6,RUSH,RG-0200,Rich,Gannon,Rich Gannon,,,,,,,,,1
+15718,97,2000,7,PASS,,,,,KL-1700,Keith,Lyle,Keith Lyle,LF-0300,London,Fletcher,London Fletcher,1
+15763,97,2000,7,RUSH,MF-0300,Marshall,Faulk,Marshall Faulk,,,,,,,,,1
+15784,97,2000,7,RUSH,MF-0300,Marshall,Faulk,Marshall Faulk,,,,,,,,,1
+15832,97,2000,7,RUSH,JA-1600,Jamal,Anderson,Jamal Anderson,,,,,,,,,1
+15842,97,2000,7,PASS,,,,,KW-0500,Kurt,Warner,Kurt Warner,RW-2900,Roland,Williams,Roland Williams,1
+16381,101,2000,8,RUSH,JS-6500,James,Stewart,James Stewart,,,,,,,,,1
+17901,110,2000,8,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,MW-2900,Moe,Williams,Moe Williams,1
+19675,121,2000,9,RUSH,JS-6500,James,Stewart,James Stewart,,,,,,,,,1
+21312,131,2000,10,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,MP-1500,Marcus,Pollard,Marcus Pollard,1
+21806,134,2000,10,PASS,,,,,SC-0200,Stoney,Case,Stoney Case,JM-6400,Johnnie,Morton,Johnnie Morton,1
+22172,136,2000,10,RUSH,TJ-0400,Terry,Jackson,Terry Jackson,,,,,,,,,1
+23141,142,2000,10,RUSH,SB-0700,Steve,Beuerlein,Steve Beuerlein,,,,,,,,,1
+23800,146,2000,11,RUSH,KF-0200,Kevin,Faulk,Kevin Faulk,,,,,,,,,1
+25633,157,2000,11,PASS,,,,,VT-0200,Vinny,Testaverde,Vinny Testaverde,MC-2100,Marcus,Coleman,Marcus Coleman,1
+28094,172,2000,12,RUSH,RH-3400,Richard,Huntley,Richard Huntley,,,,,,,,,1
+32530,199,2000,14,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,JS-6900,J.J.,Stokes,J.J. Stokes,1
+34878,214,2000,15,RUSH,TA-0500,Terry,Allen,Terry Allen,,,,,,,,,1
+35086,215,2000,15,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,RM-5000,Randy,Moss,Randy Moss,1
+35577,218,2000,15,RUSH,SB-1900,Shawn,Bryson,Shawn Bryson,,,,,,,,,1
+38338,235,2000,17,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,KB-1700,Kyle,Brady,Kyle Brady,1
+38747,238,2000,17,RUSH,JL-1400,Jamal,Lewis,Jamal Lewis,,,,,,,,,1
+39150,240,2000,17,RUSH,SK-0400,Shaun,King,Shaun King,,,,,,,,,1
+40534,249,2000,18,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,KD-1000,Ken,Dilger,Ken Dilger,1
+40800,250,2000,18,PASS,,,,,KW-0500,Kurt,Warner,Kurt Warner,MF-0300,Marshall,Faulk,Marshall Faulk,1
+43422,267,2001,1,RUSH,RG-0200,Rich,Gannon,Rich Gannon,,,,,,,,,1
+46064,283,2001,2,RUSH,JM-3500,James,McKnight,James McKnight,,,,,,,,,1
+46339,285,2001,2,PASS,,,,,KW-0500,Kurt,Warner,Kurt Warner,RP-1900,Ricky,Proehl,Ricky Proehl,1
+46617,287,2001,2,PASS,,,,,BG-1900,Brian,Griese,Brian Griese,DC-0800,Dwayne,Carswell,Dwayne Carswell,1
+47233,291,2001,3,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,AF-1300,Antonio,Freeman,Antonio Freeman,1
+50161,309,2001,4,RUSH,DC-4400,Daunte,Culpepper,Daunte Culpepper,,,,,,,,,1
+51599,318,2001,5,PASS,,,,,CC-1400,Chris,Chandler,Chris Chandler,SJ-0400,Shawn,Jefferson,Shawn Jefferson,1
+52091,321,2001,5,PASS,,,,,JK-1500,Jon,Kitna,Jon Kitna,RD-2100,Ron,Dugans,Ron Dugans,1
+52456,323,2001,5,PASS,,,,,TG-1600,Trent,Green,Trent Green,TG-1300,Tony,Gonzalez,Tony Gonzalez,1
+53427,329,2001,5,PASS,,,,,SM-2400,Steve,McNair,Steve McNair,KD-1900,Kevin,Dyson,Kevin Dyson,1
+54418,335,2001,6,PASS,,,,,RC-2800,Randall,Cunningham,Randall Cunningham,QI-0100,Qadry,Ismail,Qadry Ismail,1
+54541,336,2001,6,PASS,,,,,SM-2400,Steve,McNair,Steve McNair,DB-1700,Drew,Bennett,Drew Bennett,1
+54724,337,2001,6,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,KD-1000,Ken,Dilger,Ken Dilger,1
+54899,338,2001,6,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,JR-0900,Jake,Reed,Jake Reed,1
+55986,345,2001,7,RUSH,TG-1600,Trent,Green,Trent Green,,,,,,,,,1
+56008,345,2001,7,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,EJ-0200,Edgerrin,James,Edgerrin James,1
+56541,348,2001,7,RUSH,AT-0500,Anthony,Thomas,Anthony Thomas,,,,,,,,,1
+56966,351,2001,7,PASS,,,,,CB-0900,Charlie,Batch,Charlie Batch,LW-0400,Lamont,Warren,Lamont Warren,1
+57768,356,2001,7,RUSH,DC-4400,Daunte,Culpepper,Daunte Culpepper,,,,,,,,,1
+57974,357,2001,7,PASS,,,,,TB-0200,Tony,Banks,Tony Banks,DB-1600,Donnell,Bennett,Donnell Bennett,1
+60382,372,2001,8,PASS,,,,,BG-1900,Brian,Griese,Brian Griese,RS-2100,Rod,Smith,Rod Smith,1
+60417,372,2001,8,RUSH,MA-1000,Mike,Anderson,Mike Anderson,,,,,,,,,1
+61857,381,2001,9,PASS,,,,,AV-0200,Alex,Van Pelt,Alex Van Pelt,EM-1800,Eric,Moulds,Eric Moulds,1
+62242,384,2001,9,PASS,,,,,AB-2900,Aaron,Brooks,Aaron Brooks,WJ-0200,Willie,Jackson,Willie Jackson,1
+63531,391,2001,10,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,EJ-0900,Eric,Johnson,Eric Johnson,1
+64974,400,2001,10,PASS,,,,,BJ-1400,Brad,Johnson,Brad Johnson,MA-0600,Mike,Alstott,Mike Alstott,1
+65630,404,2001,11,RUSH,MM-2800,Mike,McMahon,Mike McMahon,,,,,,,,,1
+67691,417,2001,11,RUSH,MF-0300,Marshall,Faulk,Marshall Faulk,,,,,,,,,1
+68729,423,2001,12,RUSH,JW-2500,Jamel,White,Jamel White,,,,,,,,,1
+69367,427,2001,12,RUSH,JP-3200,Jake,Plummer,Jake Plummer,,,,,,,,,1
+70136,432,2001,12,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,KM-0900,Keenan,McCardell,Keenan McCardell,1
+72287,445,2001,13,PASS,,,,,BJ-1400,Brad,Johnson,Brad Johnson,MA-0600,Mike,Alstott,Mike Alstott,1
+74503,459,2001,14,PASS,,,,,SM-2400,Steve,McNair,Steve McNair,DM-0500,Derrick,Mason,Derrick Mason,1
+77123,475,2001,15,RUSH,SK-0400,Shaun,King,Shaun King,,,,,,,,,1
+77433,477,2001,15,RUSH,KM-1100,Kevin,McDougal,Kevin McDougal,,,,,,,,,1
+79299,488,2001,16,RUSH,TB-0400,Tiki,Barber,Tiki Barber,,,,,,,,,1
+79432,489,2001,16,PASS,,,,,TD-1400,Trent,Dilfer,Trent Dilfer,CF-0300,Christian,Fauria,Christian Fauria,1
+81057,499,2001,17,RUSH,RD-0700,Ron,Dayne,Ron Dayne,,,,,,,,,1
+81538,502,2001,17,PASS,,,,,TG-1600,Trent,Green,Trent Green,EK-0300,Eddie,Kennison,Eddie Kennison,1
+82000,505,2001,17,RUSH,SD-0400,Stephen,Davis,Stephen Davis,,,,,,,,,1
+82426,508,2001,18,RUSH,CG-0400,Charlie,Garner,Charlie Garner,,,,,,,,,1
+82737,510,2001,18,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,TS-3400,Tai,Streets,Tai Streets,1
+84373,520,2002,1,PASS,,,,,VT-0200,Vinny,Testaverde,Vinny Testaverde,AB-1100,Anthony,Becht,Anthony Becht,1
+85480,527,2002,1,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,JS-4400,Jimmy,Smith,Jimmy Smith,1
+86170,531,2002,1,RUSH,EG-0200,Eddie,George,Eddie George,,,,,,,,,1
+89457,551,2002,3,PASS,,,,,JP-3200,Jake,Plummer,Jake Plummer,FS-0100,Frank,Sanders,Frank Sanders,1
+89649,552,2002,3,RUSH,AB-2900,Aaron,Brooks,Aaron Brooks,,,,,,,,,1
+90577,558,2002,3,RUSH,AS-2500,Antowain,Smith,Antowain Smith,,,,,,,,,1
+92230,568,2002,4,RUSH,AB-2900,Aaron,Brooks,Aaron Brooks,,,,,,,,,1
+93041,573,2002,4,PASS,,,,,DM-2200,Donovan,McNabb,Donovan McNabb,CL-0900,Chad,Lewis,Chad Lewis,1
+95040,585,2002,5,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,FT-0100,Fred,Taylor,Fred Taylor,1
+95121,585,2002,5,RUSH,DS-3500,Duce,Staley,Duce Staley,,,,,,,,,1
+95456,587,2002,5,PASS,,,,,TM-0200,Tommy,Maddox,Tommy Maddox,HW-0100,Hines,Ward,Hines Ward,1
+95538,588,2002,5,RUSH,CM-0600,Curtis,Martin,Curtis Martin,,,,,,,,,1
+96055,591,2002,5,RUSH,QM-0500,Quincy,Morgan,Quincy Morgan,,,,,,,,,1
+98558,606,2002,6,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,GH-0900,Garrison,Hearst,Garrison Hearst,1
+101008,621,2002,8,PASS,,,,,JB-3800,Jeff,Blake,Jeff Blake,TH-1100,Todd,Heap,Todd Heap,1
+101839,626,2002,8,PASS,,,,,DC-0700,David,Carr,David Carr,JG-0100,Jabar,Gaffney,Jabar Gaffney,1
+102442,630,2002,8,PASS,,,,,AB-2900,Aaron,Brooks,Aaron Brooks,BW-1850,Boo,Williams,Boo Williams,1
+102643,631,2002,8,PASS,,,,,TC-2600,Tim,Couch,Tim Couch,DN-1400,Dennis,Northcutt,Dennis Northcutt,1
+102966,633,2002,8,RUSH,EJ-0200,Edgerrin,James,Edgerrin James,,,,,,,,,1
+103140,634,2002,8,PASS,,,,,DM-2200,Donovan,McNabb,Donovan McNabb,CL-0900,Chad,Lewis,Chad Lewis,1
+104401,642,2002,9,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,MH-1200,Marvin,Harrison,Marvin Harrison,1
+106094,652,2002,10,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,TB-3300,Troy,Brown,Troy Brown,1
+106612,655,2002,10,PASS,,,,,KC-2000,Kerry,Collins,Kerry Collins,MR-1000,Marcellus,Rivers,Marcellus Rivers,1
+106905,657,2002,10,PASS,,,,,TM-0200,Tommy,Maddox,Tommy Maddox,HW-0100,Hines,Ward,Hines Ward,1
+107674,662,2002,10,PASS,,,,,RG-0200,Rich,Gannon,Rich Gannon,JP-3400,Jerry,Porter,Jerry Porter,1
+108193,665,2002,11,PASS,,,,,CP-0900,Chad,Pennington,Chad Pennington,LC-0800,Laveranues,Coles,Laveranues Coles,1
+110047,676,2002,11,PASS,,,,,KS-2300,Kordell,Stewart,Kordell Stewart,DK-1100,Dan,Kreider,Dan Kreider,1
+110061,676,2002,11,PASS,,,,,AR-0200,Antwaan,Randle El,Antwaan Randle El,HW-0100,Hines,Ward,Hines Ward,1
+111361,684,2002,12,PASS,,,,,DC-0700,David,Carr,David Carr,JA-0800,James,Allen,James Allen,1
+112335,690,2002,12,RUSH,TG-1600,Trent,Green,Trent Green,,,,,,,,,1
+112367,690,2002,12,RUSH,MH-1600,Matt,Hasselbeck,Matt Hasselbeck,,,,,,,,,1
+112475,691,2002,12,PASS,,,,,BJ-1400,Brad,Johnson,Brad Johnson,KJ-0700,Keyshawn,Johnson,Keyshawn Johnson,1
+114842,705,2002,13,RUSH,SM-2400,Steve,McNair,Steve McNair,,,,,,,,,1
+115557,709,2002,13,PASS,,,,,BJ-1400,Brad,Johnson,Brad Johnson,KJ-0700,Keyshawn,Johnson,Keyshawn Johnson,1
+116082,712,2002,14,RUSH,CT-0100,Chester,Taylor,Chester Taylor,,,,,,,,,1
+116243,713,2002,14,RUSH,NG-0300,Nick,Goings,Nick Goings,,,,,,,,,1
+118013,724,2002,14,PASS,,,,,PR-0100,Patrick,Ramsey,Patrick Ramsey,CD-1800,Chris,Doering,Chris Doering,1
+119002,730,2002,15,RUSH,FT-0100,Fred,Taylor,Fred Taylor,,,,,,,,,1
+119852,735,2002,15,PASS,,,,,RG-0200,Rich,Gannon,Rich Gannon,JP-3400,Jerry,Porter,Jerry Porter,1
+120037,736,2002,15,PASS,,,,,AB-2900,Aaron,Brooks,Aaron Brooks,JH-5200,Joe,Horn,Joe Horn,1
+120055,736,2002,15,RUSH,DC-4400,Daunte,Culpepper,Daunte Culpepper,,,,,,,,,1
+120679,740,2002,15,RUSH,JG-0600,Jeff,Garcia,Jeff Garcia,,,,,,,,,1
+121621,746,2002,16,PASS,,,,,MM-2800,Mike,McMahon,Mike McMahon,BS-1100,Bill,Schroeder,Bill Schroeder,1
+122465,751,2002,16,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,MP-1500,Marcus,Pollard,Marcus Pollard,1
+125079,767,2002,17,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,CF-0300,Christian,Fauria,Christian Fauria,1
+125566,770,2002,17,PASS,,,,,TM-0200,Tommy,Maddox,Tommy Maddox,PB-1000,Plaxico,Burress,Plaxico Burress,1
+125723,771,2002,17,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,RC-0100,Reche,Caldwell,Reche Caldwell,1
+126739,777,2002,18,PASS,,,,,AR-0200,Antwaan,Randle El,Antwaan Randle El,JT-4300,Jerame,Tuman,Jerame Tuman,1
+126868,778,2002,18,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,TO-0200,Terrell,Owens,Terrell Owens,1
+126877,778,2002,18,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,TO-0200,Terrell,Owens,Terrell Owens,1
+127224,780,2002,19,PASS,,,,,HW-0100,Hines,Ward,Hines Ward,PB-1000,Plaxico,Burress,Plaxico Burress,1
+129345,793,2003,1,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,BF-1100,Bubba,Franks,Bubba Franks,1
+130040,797,2003,1,PASS,,,,,KB-1300,Kyle,Boller,Kyle Boller,TH-1100,Todd,Heap,Todd Heap,1
+133426,817,2003,2,RUSH,TB-0400,Tiki,Barber,Tiki Barber,,,,,,,,,1
+135388,829,2003,3,PASS,,,,,PR-0100,Patrick,Ramsey,Patrick Ramsey,DM-0900,Darnerien,McCants,Darnerien McCants,1
+137790,844,2003,4,PASS,,,,,TB-1900,Todd,Bouman,Todd Bouman,JF-1100,James,Fenderson,James Fenderson,1
+138079,846,2003,5,PASS,,,,,GF-0400,Gus,Frerotte,Gus Frerotte,OS-0700,Onterrio,Smith,Onterrio Smith,1
+138631,849,2003,5,RUSH,KS-2300,Kordell,Stewart,Kordell Stewart,,,,,,,,,1
+139447,854,2003,5,PASS,,,,,SM-2400,Steve,McNair,Steve McNair,TC-0100,Tyrone,Calico,Tyrone Calico,1
+140469,860,2003,6,RUSH,JB-3800,Jeff,Blake,Jeff Blake,,,,,,,,,1
+140930,863,2003,6,RUSH,JB-3400,Jerome,Bettis,Jerome Bettis,,,,,,,,,1
+143186,877,2003,7,PASS,,,,,KB-1300,Kyle,Boller,Kyle Boller,TH-1100,Todd,Heap,Todd Heap,1
+143219,877,2003,7,PASS,,,,,KB-1300,Kyle,Boller,Kyle Boller,TH-1100,Todd,Heap,Todd Heap,1
+144495,885,2003,7,RUSH,CC-1400,Chris,Chandler,Chris Chandler,,,,,,,,,1
+145286,890,2003,8,PASS,,,,,JH-1700,Joey,Harrington,Joey Harrington,AH-0200,Az-Zahir,Hakim,Az-Zahir Hakim,1
+145334,890,2003,8,PASS,,,,,JH-1700,Joey,Harrington,Joey Harrington,SA-0800,Scotty,Anderson,Scotty Anderson,1
+147552,904,2003,9,PASS,,,,,KB-1300,Kyle,Boller,Kyle Boller,TH-1100,Todd,Heap,Todd Heap,1
+147878,906,2003,9,PASS,,,,,PR-0100,Patrick,Ramsey,Patrick Ramsey,DM-0900,Darnerien,McCants,Darnerien McCants,1
+148458,910,2003,9,RUSH,KC-2000,Kerry,Collins,Kerry Collins,,,,,,,,,1
+150644,923,2003,10,PASS,,,,,CP-0900,Chad,Pennington,Chad Pennington,AB-1100,Anthony,Becht,Anthony Becht,1
+152596,935,2003,11,PASS,,,,,DF-1300,Doug,Flutie,Doug Flutie,SA-0700,Stephen,Alexander,Stephen Alexander,1
+153265,939,2003,11,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,HG-0200,Hunter,Goodwin,Hunter Goodwin,1
+154945,949,2003,12,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,JM-6800,James,Mungro,James Mungro,1
+158411,970,2003,13,RUSH,CP-2100,Clinton,Portis,Clinton Portis,,,,,,,,,1
+160329,982,2003,14,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,BF-1100,Bubba,Franks,Bubba Franks,1
+161792,991,2003,14,RUSH,SM-2400,Steve,McNair,Steve McNair,,,,,,,,,1
+163720,1003,2003,15,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,DB-3100,David,Boston,David Boston,1
+164197,1006,2003,15,RUSH,RH-2600,Robert,Holcombe,Robert Holcombe,,,,,,,,,1
+165212,1012,2003,16,PASS,,,,,BJ-1400,Brad,Johnson,Brad Johnson,KW-1100,Karl,Williams,Karl Williams,1
+166472,1020,2003,16,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,BL-1200,Brandon,Lloyd,Brandon Lloyd,1
+170799,1047,2003,19,PASS,,,,,MB-4800,Marc,Bulger,Marc Bulger,DL-1900,Dane,Looker,Dane Looker,1
+171656,1052,2003,21,RUSH,KF-0200,Kevin,Faulk,Kevin Faulk,,,,,,,,,1
+173413,1063,2004,1,PASS,,,,,RG-0200,Rich,Gannon,Rich Gannon,AW-1000,Alvis,Whitted,Alvis Whitted,1
+173710,1065,2004,1,RUSH,MF-0300,Marshall,Faulk,Marshall Faulk,,,,,,,,,1
+177726,1090,2004,3,RUSH,JW-1900,Jonathan,Wells,Jonathan Wells,,,,,,,,,1
+178580,1095,2004,3,PASS,,,,,MB-4800,Marc,Bulger,Marc Bulger,KC-2700,Kevin,Curtis,Kevin Curtis,1
+178743,1096,2004,3,PASS,,,,,BL-0600,Byron,Leftwich,Byron Leftwich,RW-2400,Reggie,Williams,Reggie Williams,1
+178905,1097,2004,3,PASS,,,,,BJ-1400,Brad,Johnson,Brad Johnson,KD-1000,Ken,Dilger,Ken Dilger,1
+179066,1098,2004,3,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,TJ-0700,Taylor,Jacobs,Taylor Jacobs,1
+180329,1106,2004,4,PASS,,,,,BL-0600,Byron,Leftwich,Byron Leftwich,BJ-2300,Brian,Jones,Brian Jones,1
+181147,1111,2004,4,PASS,,,,,TR-0100,Tim,Rattay,Tim Rattay,CC-4100,Curtis,Conway,Curtis Conway,1
+183108,1123,2004,5,RUSH,TR-0100,Tim,Rattay,Tim Rattay,,,,,,,,,1
+183122,1123,2004,5,PASS,,,,,TR-0100,Tim,Rattay,Tim Rattay,BL-1200,Brandon,Lloyd,Brandon Lloyd,1
+184717,1133,2004,6,PASS,,,,,BL-0600,Byron,Leftwich,Byron Leftwich,RW-2400,Reggie,Williams,Reggie Williams,1
+184853,1134,2004,6,PASS,,,,,MH-1600,Matt,Hasselbeck,Matt Hasselbeck,JS-6400,Jerramy,Stevens,Jerramy Stevens,1
+185352,1137,2004,6,PASS,,,,,JD-1400,Jake,Delhomme,Jake Delhomme,KC-1500,Keary,Colbert,Keary Colbert,1
+186819,1146,2004,7,PASS,,,,,BL-0600,Byron,Leftwich,Byron Leftwich,EW-0800,Ernest,Wilford,Ernest Wilford,1
+190076,1166,2004,8,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,RF-0300,Robert,Ferguson,Robert Ferguson,1
+191405,1174,2004,9,PASS,,,,,AF-0300,A.J.,Feeley,A.J. Feeley,RM-3100,Randy,McMichael,Randy McMichael,1
+191570,1175,2004,9,RUSH,CK-1000,Craig,Krenzel,Craig Krenzel,,,,,,,,,1
+192193,1179,2004,9,RUSH,MF-0300,Marshall,Faulk,Marshall Faulk,,,,,,,,,1
+192542,1181,2004,9,PASS,,,,,KB-1300,Kyle,Boller,Kyle Boller,CM-2700,Clarence,Moore,Clarence Moore,1
+192639,1182,2004,9,RUSH,DC-4400,Daunte,Culpepper,Daunte Culpepper,,,,,,,,,1
+196157,1203,2004,11,RUSH,SM-2400,Steve,McNair,Steve McNair,,,,,,,,,1
+196289,1204,2004,11,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,NB-0800,Nate,Burleson,Nate Burleson,1
+198245,1216,2004,12,PASS,,,,,AB-2900,Aaron,Brooks,Aaron Brooks,JH-5200,Joe,Horn,Joe Horn,1
+198908,1220,2004,12,PASS,,,,,TG-1600,Trent,Green,Trent Green,EK-0300,Eddie,Kennison,Eddie Kennison,1
+199224,1222,2004,12,RUSH,CD-1500,Corey,Dillon,Corey Dillon,,,,,,,,,1
+200712,1231,2004,13,PASS,,,,,LM-0800,Luke,McCown,Luke McCown,SH-0600,Steve,Heiden,Steve Heiden,1
+201245,1234,2004,13,PASS,,,,,AF-0300,A.J.,Feeley,A.J. Feeley,CC-1300,Chris,Chambers,Chris Chambers,1
+202848,1244,2004,13,PASS,,,,,MH-1600,Matt,Hasselbeck,Matt Hasselbeck,DJ-0100,Darrell,Jackson,Darrell Jackson,1
+203036,1245,2004,14,RUSH,JM-2900,Josh,McCown,Josh McCown,,,,,,,,,1
+206833,1268,2004,15,PASS,,,,,JH-1700,Joey,Harrington,Joey Harrington,TS-3400,Tai,Streets,Tai Streets,1
+207025,1269,2004,15,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,DD-2600,Donald,Driver,Donald Driver,1
+209318,1283,2004,16,RUSH,EJ-0200,Edgerrin,James,Edgerrin James,,,,,,,,,1
+211413,1296,2004,17,PASS,,,,,JD-1400,Jake,Delhomme,Jake Delhomme,MS-0700,Mike,Seidman,Mike Seidman,1
+212866,1305,2004,17,RUSH,SJ-0200,Steven,Jackson,Steven Jackson,,,,,,,,,1
+213241,1307,2004,17,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,OS-0700,Onterrio,Smith,Onterrio Smith,1
+213384,1308,2004,17,PASS,,,,,VT-0200,Vinny,Testaverde,Vinny Testaverde,JW-6000,Jason,Witten,Jason Witten,1
+218408,1339,2005,2,PASS,,,,,DC-4400,Daunte,Culpepper,Daunte Culpepper,MR-1400,Marcus,Robinson,Marcus Robinson,1
+219496,1346,2005,2,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,AC-2700,Alge,Crumpler,Alge Crumpler,1
+221983,1361,2005,3,PASS,,,,,DB-2600,Drew,Bledsoe,Drew Bledsoe,KJ-0700,Keyshawn,Johnson,Keyshawn Johnson,1
+223394,1370,2005,4,PASS,,,,,DM-2200,Donovan,McNabb,Donovan McNabb,BW-1000,Brian,Westbrook,Brian Westbrook,1
+224874,1379,2005,4,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,DM-0300,David,Martin,David Martin,1
+224896,1379,2005,4,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,RF-0300,Robert,Ferguson,Robert Ferguson,1
+225233,1381,2005,5,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,BF-0400,Brian,Finneran,Brian Finneran,1
+226406,1388,2005,5,PASS,,,,,DC-0700,David,Carr,David Carr,CB-2500,Corey,Bradford,Corey Bradford,1
+228291,1400,2005,6,PASS,,,,,TG-1600,Trent,Green,Trent Green,MB-2600,Marc,Boerigter,Marc Boerigter,1
+229543,1407,2005,6,RUSH,MF-0300,Marshall,Faulk,Marshall Faulk,,,,,,,,,1
+235026,1441,2005,9,RUSH,LJ-1500,LaMont,Jordan,LaMont Jordan,,,,,,,,,1
+236471,1450,2005,10,PASS,,,,,MV-0300,Mike,Vick,Mike Vick,BF-0400,Brian,Finneran,Brian Finneran,1
+237021,1454,2005,10,RUSH,OA-0300,Obafemi,Ayanbadejo,Obafemi Ayanbadejo,,,,,,,,,1
+237564,1457,2005,10,RUSH,HE-0300,Heath,Evans,Heath Evans,,,,,,,,,1
+237745,1458,2005,10,RUSH,TB-0400,Tiki,Barber,Tiki Barber,,,,,,,,,1
+237901,1459,2005,10,PASS,,,,,JP-3200,Jake,Plummer,Jake Plummer,JP-4400,Jeb,Putzier,Jeb Putzier,1
+238173,1461,2005,10,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,CP-2100,Clinton,Portis,Clinton Portis,1
+238242,1461,2005,10,RUSH,MA-0600,Mike,Alstott,Mike Alstott,,,,,,,,,1
+240532,1475,2005,11,PASS,,,,,KW-0500,Kurt,Warner,Kurt Warner,AB-2000,Anquan,Boldin,Anquan Boldin,1
+240560,1475,2005,11,PASS,,,,,JM-1100,Jamie,Martin,Jamie Martin,AH-1450,Arlen,Harris,Arlen Harris,1
+242022,1484,2005,12,PASS,,,,,CP-0500,Carson,Palmer,Carson Palmer,MS-0500,Matt,Schobel,Matt Schobel,1
+242034,1484,2005,12,RUSH,JG-3500,Justin,Green,Justin Green,,,,,,,,,1
+243062,1490,2005,12,PASS,,,,,EM-0200,Eli,Manning,Eli Manning,JS-2700,Jeremy,Shockey,Jeremy Shockey,1
+243431,1492,2005,12,PASS,,,,,KD-1400,Ken,Dorsey,Ken Dorsey,TJ-0400,Terry,Jackson,Terry Jackson,1
+246028,1508,2005,13,RUSH,OA-0300,Obafemi,Ayanbadejo,Obafemi Ayanbadejo,,,,,,,,,1
+247620,1518,2005,14,RUSH,DG-0600,David,Garrard,David Garrard,,,,,,,,,1
+254852,1562,2005,17,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,BF-0400,Brian,Finneran,Brian Finneran,1
+258231,1583,2005,19,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,RW-1100,Reggie,Wayne,Reggie Wayne,1
+259955,1594,2006,1,RUSH,TH-1400,Travis,Henry,Travis Henry,,,,,,,,,1
+259970,1594,2006,1,PASS,,,,,KC-2000,Kerry,Collins,Kerry Collins,DB-1700,Drew,Bennett,Drew Bennett,1
+265133,1626,2006,3,RUSH,RD-0700,Ron,Dayne,Ron Dayne,,,,,,,,,1
+266402,1634,2006,4,RUSH,VY-0100,Vince,Young,Vince Young,,,,,,,,,1
+267100,1638,2006,4,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,JH-5200,Joe,Horn,Joe Horn,1
+267575,1641,2006,4,PASS,,,,,MB-4800,Marc,Bulger,Marc Bulger,IB-0200,Isaac,Bruce,Isaac Bruce,1
+271941,1668,2006,6,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,SM-3600,Santana,Moss,Santana Moss,1
+273235,1676,2006,7,PASS,,,,,JH-1700,Joey,Harrington,Joey Harrington,MB-2800,Marty,Booker,Marty Booker,1
+274730,1685,2006,7,PASS,,,,,MB-4500,Mark,Brunell,Mark Brunell,CC-4300,Chris,Cooley,Chris Cooley,1
+274854,1686,2006,7,RUSH,TR-0800,Tony,Romo,Tony Romo,,,,,,,,,1
+275388,1689,2006,8,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,BM-2200,Billy,Miller,Billy Miller,1
+275855,1692,2006,8,PASS,,,,,DH-4300,Damon,Huard,Damon Huard,TG-1300,Tony,Gonzalez,Tony Gonzalez,1
+276475,1696,2006,8,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,RW-1100,Reggie,Wayne,Reggie Wayne,1
+276926,1699,2006,8,PASS,,,,,TR-0800,Tony,Romo,Tony Romo,TO-0200,Terrell,Owens,Terrell Owens,1
+278873,1711,2006,9,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,VJ-0100,Vincent,Jackson,Vincent Jackson,1
+280859,1723,2006,10,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,RC-0100,Reche,Caldwell,Reche Caldwell,1
+285775,1754,2006,12,PASS,,,,,DC-0700,David,Carr,David Carr,WL-0200,Wali,Lundy,Wali Lundy,1
+287024,1762,2006,12,PASS,,,,,MH-1600,Matt,Hasselbeck,Matt Hasselbeck,JS-6400,Jerramy,Stevens,Jerramy Stevens,1
+287868,1767,2006,13,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,TB-3300,Troy,Brown,Troy Brown,1
+290722,1785,2006,14,PASS,,,,,JH-1700,Joey,Harrington,Joey Harrington,MB-2800,Marty,Booker,Marty Booker,1
+293617,1803,2006,15,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,LS-1000,L.J.,Smith,L.J. Smith,1
+300030,1843,2006,18,PASS,,,,,TG-1600,Trent,Green,Trent Green,KW-2000,Kris,Wilson,Kris Wilson,1
+301215,1850,2006,19,RUSH,KF-0200,Kevin,Faulk,Kevin Faulk,,,,,,,,,1
+301528,1852,2006,20,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,MH-1200,Marvin,Harrison,Marvin Harrison,1
+304085,1868,2007,1,RUSH,RJ-1800,Rudi,Johnson,Rudi Johnson,,,,,,,,,1
+306536,1883,2007,2,PASS,,,,,JM-2900,Josh,McCown,Josh McCown,RC-3100,Ronald,Curry,Ronald Curry,1
+307667,1890,2007,3,RUSH,RB-3900,Ronnie,Brown,Ronnie Brown,,,,,,,,,1
+311850,1916,2007,5,PASS,,,,,GF-0400,Gus,Frerotte,Gus Frerotte,TH-2300,Torry,Holt,Torry Holt,1
+312475,1920,2007,5,PASS,,,,,JC-0500,Jason,Campbell,Jason Campbell,CC-4300,Chris,Cooley,Chris Cooley,1
+314218,1931,2007,6,RUSH,SG-0100,Samkon,Gado,Samkon Gado,,,,,,,,,1
+316326,1944,2007,7,RUSH,RB-4900,Reggie,Bush,Reggie Bush,,,,,,,,,1
+317264,1950,2007,7,PASS,,,,,SR-1200,Sage,Rosenfels,Sage Rosenfels,AD-0400,Andre',Davis,Andre' Davis,1
+317644,1952,2007,7,PASS,,,,,CP-0900,Chad,Pennington,Chad Pennington,LW-0500,Leon,Washington,Leon Washington,1
+321137,1974,2007,9,RUSH,PH-0600,Priest,Holmes,Priest Holmes,,,,,,,,,1
+321795,1978,2007,9,PASS,,,,,JC-0500,Jason,Campbell,Jason Campbell,AR-0200,Antwaan,Randle El,Antwaan Randle El,1
+322008,1979,2007,9,PASS,,,,,DA-1300,Derek,Anderson,Derek Anderson,JJ-5200,Joe,Jurevicius,Joe Jurevicius,1
+322936,1985,2007,10,RUSH,ML-2500,Marshawn,Lynch,Marshawn Lynch,,,,,,,,,1
+323095,1986,2007,10,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,HW-0100,Hines,Ward,Hines Ward,1
+323904,1991,2007,10,RUSH,RB-4900,Reggie,Bush,Reggie Bush,,,,,,,,,1
+323942,1991,2007,10,RUSH,RB-4900,Reggie,Bush,Reggie Bush,,,,,,,,,1
+324711,1996,2007,10,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,BF-0700,Bryan,Fletcher,Bryan Fletcher,1
+331093,2035,2007,13,RUSH,DG-0600,David,Garrard,David Garrard,,,,,,,,,1
+332029,2041,2007,13,PASS,,,,,JC-5600,Josh,Cribbs,Josh Cribbs,KW-2300,Kellen,Winslow,Kellen Winslow,1
+336579,2069,2007,15,PASS,,,,,CW-3200,Cedrick,Wilson,Cedrick Wilson,SH-1300,Santonio,Holmes,Santonio Holmes,1
+337219,2073,2007,15,RUSH,JA-0300,Joseph,Addai,Joseph Addai,,,,,,,,,1
+337879,2077,2007,15,RUSH,BB-2400,Brooks,Bollinger,Brooks Bollinger,,,,,,,,,1
+338464,2081,2007,16,PASS,,,,,KO-0700,Kyle,Orton,Kyle Orton,GO-0100,Greg,Olsen,Greg Olsen,1
+338674,2082,2007,16,RUSH,DW-0200,Darius,Walker,Darius Walker,,,,,,,,,1
+339320,2086,2007,16,PASS,,,,,JR-3500,JaMarcus,Russell,JaMarcus Russell,RC-3100,Ronald,Curry,Ronald Curry,1
+340611,2094,2007,17,RUSH,LM-0300,Laurence,Maroney,Laurence Maroney,,,,,,,,,1
+341116,2097,2007,17,PASS,,,,,JB-2100,John,Beck,John Beck,DH-0300,Derek,Hagan,Derek Hagan,1
+341765,2101,2007,17,RUSH,PT-0400,Pierre,Thomas,Pierre Thomas,,,,,,,,,1
+342389,2105,2007,17,RUSH,TJ-0300,Tarvaris,Jackson,Tarvaris Jackson,,,,,,,,,1
+342401,2105,2007,17,RUSH,TJ-0300,Tarvaris,Jackson,Tarvaris Jackson,,,,,,,,,1
+343234,2110,2007,18,PASS,,,,,MH-1600,Matt,Hasselbeck,Matt Hasselbeck,MP-1500,Marcus,Pollard,Marcus Pollard,1
+347437,2137,2008,2,PASS,,,,,TT-0900,Tyler,Thigpen,Tyler Thigpen,MC-2700,Mike,Cox,Mike Cox,1
+347748,2139,2008,2,RUSH,DR-1300,Dominic,Rhodes,Dominic Rhodes,,,,,,,,,1
+349361,2149,2008,2,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,LN-0100,Legedu,Naanee,Legedu Naanee,1
+349375,2149,2008,2,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,ER-0500,Eddie,Royal,Eddie Royal,1
+350765,2158,2008,3,PASS,,,,,KO-0700,Kyle,Orton,Kyle Orton,BL-1200,Brandon,Lloyd,Brandon Lloyd,1
+352878,2171,2008,4,RUSH,EJ-0200,Edgerrin,James,Edgerrin James,,,,,,,,,1
+352939,2171,2008,4,RUSH,LW-0500,Leon,Washington,Leon Washington,,,,,,,,,1
+353106,2172,2008,4,PASS,,,,,JO-0700,J.T.,O'Sullivan,J.T. O'Sullivan,FG-0200,Frank,Gore,Frank Gore,1
+353762,2176,2008,4,PASS,,,,,TE-0100,Trent,Edwards,Trent Edwards,LE-0300,Lee,Evans,Lee Evans,1
+353913,2177,2008,4,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,DS-3300,Darren,Sproles,Darren Sproles,1
+358867,2208,2008,6,PASS,,,,,DA-1300,Derek,Anderson,Derek Anderson,BE-0200,Braylon,Edwards,Braylon Edwards,1
+360256,2217,2008,7,PASS,,,,,DO-0300,Dan,Orlovsky,Dan Orlovsky,CJ-1100,Calvin,Johnson,Calvin Johnson,1
+360621,2219,2008,7,PASS,,,,,DA-1300,Derek,Anderson,Derek Anderson,BE-0200,Braylon,Edwards,Braylon Edwards,1
+363307,2236,2008,8,PASS,,,,,KC-2000,Kerry,Collins,Kerry Collins,AH-0300,Ahmard,Hall,Ahmard Hall,1
+363845,2239,2008,9,PASS,,,,,JG-0600,Jeff,Garcia,Jeff Garcia,AS-1700,Alex,Smith,Alex Smith,1
+365428,2249,2008,9,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,RW-1100,Reggie,Wayne,Reggie Wayne,1
+367030,2259,2008,10,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,DM-0500,Derrick,Mason,Derrick Mason,1
+368047,2265,2008,11,PASS,,,,,MC-0700,Matt,Cassel,Matt Cassel,JG-0100,Jabar,Gaffney,Jabar Gaffney,1
+372268,2291,2008,12,RUSH,DW-3600,DeAngelo,Williams,DeAngelo Williams,,,,,,,,,1
+373080,2296,2008,12,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,RM-0900,Ruvell,Martin,Ruvell Martin,1
+374188,2303,2008,13,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,GJ-0400,Greg,Jennings,Greg Jennings,1
+376243,2316,2008,14,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,AJ-0900,Andre,Johnson,Andre Johnson,1
+377016,2321,2008,14,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,MJ-0800,Michael,Jenkins,Michael Jenkins,1
+377483,2324,2008,14,PASS,,,,,MC-0700,Matt,Cassel,Matt Cassel,WW-0200,Wes,Welker,Wes Welker,1
+379555,2337,2008,15,PASS,,,,,DO-0300,Dan,Orlovsky,Dan Orlovsky,CF-0600,Casey,Fitzsimmons,Casey Fitzsimmons,1
+383047,2359,2008,16,PASS,,,,,EM-0200,Eli,Manning,Eli Manning,DH-3200,Domenik,Hixon,Domenik Hixon,1
+385339,2374,2008,17,PASS,,,,,BF-0100,Brett,Favre,Brett Favre,JC-5400,Jerricho,Cotchery,Jerricho Cotchery,1
+385680,2376,2008,17,RUSH,JC-6200,Jay,Cutler,Jay Cutler,,,,,,,,,1
+387331,2386,2008,20,PASS,,,,,KW-0500,Kurt,Warner,Kurt Warner,BP-0300,Ben,Patrick,Ben Patrick,1
+389721,2401,2009,1,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,GJ-0400,Greg,Jennings,Greg Jennings,1
+392977,2421,2009,3,PASS,,,,,CP-0500,Carson,Palmer,Carson Palmer,BL-0900,Brian,Leonard,Brian Leonard,1
+394587,2431,2009,3,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,EB-0600,Earl,Bennett,Earl Bennett,1
+395209,2435,2009,3,RUSH,TC-1300,Tashard,Choice,Tashard Choice,,,,,,,,,1
+396084,2440,2009,4,RUSH,CJ-1700,Chris,Johnson,Chris Johnson,,,,,,,,,1
+397974,2452,2009,5,PASS,,,,,JD-1400,Jake,Delhomme,Jake Delhomme,SS-2100,Steve,Smith,Steve Smith,1
+404441,2492,2009,8,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,AJ-0900,Andre,Johnson,Andre Johnson,1
+404921,2495,2009,8,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,MM-5300,Maurice,Morris,Maurice Morris,1
+407073,2508,2009,9,PASS,,,,,MC-0700,Matt,Cassel,Matt Cassel,JC-2300,Jamaal,Charles,Jamaal Charles,1
+407192,2509,2009,9,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,RM-5000,Randy,Moss,Randy Moss,1
+407397,2510,2009,9,PASS,,,,,JF-3100,Josh,Freeman,Josh Freeman,MC-1500,Michael,Clayton,Michael Clayton,1
+411013,2532,2009,11,RUSH,DW-3600,DeAngelo,Williams,DeAngelo Williams,,,,,,,,,1
+411495,2535,2009,11,RUSH,JL-1400,Jamal,Lewis,Jamal Lewis,,,,,,,,,1
+411826,2537,2009,11,RUSH,DG-0600,David,Garrard,David Garrard,,,,,,,,,1
+413257,2546,2009,11,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,MF-1300,Matt,Forte,Matt Forte,1
+415072,2557,2009,12,PASS,,,,,DM-2200,Donovan,McNabb,Donovan McNabb,LM-1000,LeSean,McCoy,LeSean McCoy,1
+419268,2583,2009,14,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,GJ-0400,Greg,Jennings,Greg Jennings,1
+421075,2594,2009,14,PASS,,,,,DM-2200,Donovan,McNabb,Donovan McNabb,JA-2900,Jason,Avant,Jason Avant,1
+422731,2604,2009,15,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,BJ-0300,Brandon,Jackson,Brandon Jackson,1
+423057,2606,2009,15,RUSH,RW-2600,Ricky,Williams,Ricky Williams,,,,,,,,,1
+423374,2608,2009,15,RUSH,CP-0500,Carson,Palmer,Carson Palmer,,,,,,,,,1
+423524,2609,2009,15,RUSH,JF-3100,Josh,Freeman,Josh Freeman,,,,,,,,,1
+426107,2625,2009,16,PASS,,,,,MS-0100,Mark,Sanchez,Mark Sanchez,DK-0400,Dustin,Keller,Dustin Keller,1
+426135,2625,2009,16,PASS,,,,,MS-0100,Mark,Sanchez,Mark Sanchez,BE-0200,Braylon,Edwards,Braylon Edwards,1
+430780,2654,2009,21,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,LM-1500,Lance,Moore,Lance Moore,1
+434218,2675,2010,2,PASS,,,,,SH-1100,Shaun,Hill,Shaun Hill,CJ-1100,Calvin,Johnson,Calvin Johnson,1
+434516,2677,2010,2,PASS,,,,,KC-2000,Kerry,Collins,Kerry Collins,KB-1900,Kenny,Britt,Kenny Britt,1
+435261,2682,2010,2,PASS,,,,,MS-0100,Mark,Sanchez,Mark Sanchez,BE-0200,Braylon,Edwards,Braylon Edwards,1
+435945,2686,2010,2,PASS,,,,,AS-1600,Alex,Smith,Alex Smith,VD-0100,Vernon,Davis,Vernon Davis,1
+438041,2699,2010,3,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,LN-0100,Legedu,Naanee,Legedu Naanee,1
+441069,2718,2010,5,RUSH,CB-1400,Cedric,Benson,Cedric Benson,,,,,,,,,1
+445626,2745,2010,7,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,RW-2200,Roddy,White,Roddy White,1
+447811,2758,2010,7,PASS,,,,,JK-1500,Jon,Kitna,Jon Kitna,JW-6000,Jason,Witten,Jason Witten,1
+448326,2761,2010,8,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,BJ-1800,Bryant,Johnson,Bryant Johnson,1
+449482,2768,2010,8,PASS,,,,,TJ-0300,Tarvaris,Jackson,Tarvaris Jackson,PH-0400,Percy,Harvin,Percy Harvin,1
+450296,2773,2010,9,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,MF-1300,Matt,Forte,Matt Forte,1
+451122,2778,2010,9,RUSH,MT-1300,Mike,Tolbert,Mike Tolbert,,,,,,,,,1
+453983,2795,2010,10,PASS,,,,,DA-1300,Derek,Anderson,Derek Anderson,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,1
+454356,2797,2010,10,RUSH,MM-4800,Mewelde,Moore,Mewelde Moore,,,,,,,,,1
+454371,2797,2010,10,RUSH,MM-4800,Mewelde,Moore,Mewelde Moore,,,,,,,,,1
+456517,2810,2010,11,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,RW-2200,Roddy,White,Roddy White,1
+456971,2813,2010,11,PASS,,,,,MV-0300,Mike,Vick,Mike Vick,JA-2900,Jason,Avant,Jason Avant,1
+458423,2822,2010,12,RUSH,AB-2600,Ahmad,Bradshaw,Ahmad Bradshaw,,,,,,,,,1
+460051,2832,2010,13,PASS,,,,,CP-0500,Carson,Palmer,Carson Palmer,JG-3700,Jermaine,Gresham,Jermaine Gresham,1
+461934,2844,2010,13,PASS,,,,,JK-1500,Jon,Kitna,Jon Kitna,RW-3200,Roy,Williams,Roy Williams,1
+463173,2852,2010,14,RUSH,JF-3100,Josh,Freeman,Josh Freeman,,,,,,,,,1
+464839,2862,2010,14,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,JJ-3900,Jacoby,Jones,Jacoby Jones,1
+465270,2865,2010,15,PASS,,,,,RG-2300,Rex,Grossman,Rex Grossman,CC-4300,Chris,Cooley,Chris Cooley,1
+465285,2865,2010,15,PASS,,,,,RG-2300,Rex,Grossman,Rex Grossman,MS-0800,Mike,Sellers,Mike Sellers,1
+466794,2874,2010,15,PASS,,,,,CW-1900,Charlie,Whitehurst,Charlie Whitehurst,BO-0100,Ben,Obomanu,Ben Obomanu,1
+468888,2887,2010,16,PASS,,,,,CW-1900,Charlie,Whitehurst,Charlie Whitehurst,BO-0100,Ben,Obomanu,Ben Obomanu,1
+473910,2918,2010,19,RUSH,SM-3400,Sammy,Morris,Sammy Morris,,,,,,,,,1
+474414,2921,2010,21,RUSH,AR-0200,Antwaan,Randle El,Antwaan Randle El,,,,,,,,,1
+475677,2929,2011,1,RUSH,SK-0600,Sam,Koch,Sam Koch,,,,,,,,,1
+479328,2951,2011,2,RUSH,DW-4300,Danny,Woodhead,Danny Woodhead,,,,,,,,,1
+479845,2954,2011,3,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,GO-0100,Greg,Olsen,Greg Olsen,1
+480155,2956,2011,3,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,LM-1500,Lance,Moore,Lance Moore,1
+480176,2956,2011,3,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,LM-1500,Lance,Moore,Lance Moore,1
+480499,2958,2011,3,RUSH,BJ-0600,Brandon,Jacobs,Brandon Jacobs,,,,,,,,,1
+485491,2988,2011,5,RUSH,AB-2600,Ahmad,Bradshaw,Ahmad Bradshaw,,,,,,,,,1
+486846,2996,2011,5,RUSH,WM-0300,Willis,McGahee,Willis McGahee,,,,,,,,,1
+490317,3017,2011,7,RUSH,TT-0700,Tim,Tebow,Tim Tebow,,,,,,,,,1
+493605,3037,2011,8,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,CB-3000,Curtis,Brinkley,Curtis Brinkley,1
+494413,3042,2011,9,PASS,,,,,,,,,,,,,1
+494572,3043,2011,9,PASS,,,,,JB-2100,John,Beck,John Beck,LH-0600,Leonard,Hankerson,Leonard Hankerson,1
+498191,3065,2011,10,PASS,,,,,AS-1600,Alex,Smith,Alex Smith,MC-2900,Michael,Crabtree,Michael Crabtree,1
+498882,3069,2011,11,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,SS-2100,Steve,Smith,Steve Smith,1
+501006,3082,2011,12,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,TY-0300,Titus,Young,Titus Young,1
+505292,3108,2011,13,RUSH,TT-0700,Tim,Tebow,Tim Tebow,,,,,,,,,1
+505810,3111,2011,13,RUSH,DW-1000,D.J.,Ware,D.J. Ware,,,,,,,,,1
+508648,3128,2011,14,RUSH,DW-1000,D.J.,Ware,D.J. Ware,,,,,,,,,1
+509084,3131,2011,15,PASS,,,,,JF-3100,Josh,Freeman,Josh Freeman,KW-2300,Kellen,Winslow,Kellen Winslow,1
+513881,3160,2011,16,RUSH,JM-2900,Josh,McCown,Josh McCown,,,,,,,,,1
+514992,3167,2011,17,PASS,,,,,JF-3100,Josh,Freeman,Josh Freeman,KW-2300,Kellen,Winslow,Kellen Winslow,1
+515175,3168,2011,17,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,TS-0700,Tony,Scheffler,Tony Scheffler,1
+515685,3171,2011,17,RUSH,DW-4300,Danny,Woodhead,Danny Woodhead,,,,,,,,,1
+517561,3182,2011,19,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,DS-3300,Darren,Sproles,Darren Sproles,1
+519735,3195,2012,1,RUSH,DS-3300,Darren,Sproles,Darren Sproles,,,,,,,,,1
+520242,3198,2012,1,PASS,,,,,BG-0100,Blaine,Gabbert,Blaine Gabbert,JB-3650,Justin,Blackmon,Justin Blackmon,1
+520711,3201,2012,1,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,JN-0900,Jordy,Nelson,Jordy Nelson,1
+520879,3202,2012,1,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,WM-0300,Willis,McGahee,Willis McGahee,1
+521229,3204,2012,1,PASS,,,,,CP-0500,Carson,Palmer,Carson Palmer,RS-3250,Rod,Streater,Rod Streater,1
+522221,3210,2012,2,RUSH,AB-3400,Andre,Brown,Andre Brown,,,,,,,,,1
+522889,3214,2012,2,RUSH,DR-1450,Daryl,Richardson,Daryl Richardson,,,,,,,,,1
+525433,3229,2012,3,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,NB-0800,Nate,Burleson,Nate Burleson,1
+528313,3246,2012,4,PASS,,,,,RT-0150,Ryan,Tannehill,Ryan Tannehill,JL-0260,Jorvorskie,Lane,Jorvorskie Lane,1
+529181,3251,2012,4,PASS,,,,,KO-0700,Kyle,Orton,Kyle Orton,DB-5300,Dez,Bryant,Dez Bryant,1
+529859,3255,2012,5,RUSH,DB-4800,Donald,Brown,Donald Brown,,,,,,,,,1
+532141,3269,2012,6,PASS,,,,,SB-1100,Sam,Bradford,Sam Bradford,SJ-0200,Steven,Jackson,Steven Jackson,1
+533520,3277,2012,6,PASS,,,,,CP-2000,Christian,Ponder,Christian Ponder,KR-1200,Kyle,Rudolph,Kyle Rudolph,1
+535802,3291,2012,7,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,HM-0200,Heath,Miller,Heath Miller,1
+538826,3309,2012,9,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,AB-2000,Anquan,Boldin,Anquan Boldin,1
+538972,3310,2012,9,PASS,,,,,BG-0100,Blaine,Gabbert,Blaine Gabbert,RJ-0800,Rashad,Jennings,Rashad Jennings,1
+539638,3314,2012,9,PASS,,,,,MH-1600,Matt,Hasselbeck,Matt Hasselbeck,KB-1900,Kenny,Britt,Kenny Britt,1
+540004,3316,2012,9,PASS,,,,,CP-0500,Carson,Palmer,Carson Palmer,JC-5660,Juron,Criner,Juron Criner,1
+542088,3329,2012,10,RUSH,AP-0700,Adrian,Peterson,Adrian Peterson,,,,,,,,,1
+544171,3341,2012,11,PASS,,,,,JF-3100,Josh,Freeman,Josh Freeman,VJ-0100,Vincent,Jackson,Vincent Jackson,1
+545713,3350,2012,12,RUSH,TR-0800,Tony,Romo,Tony Romo,,,,,,,,,1
+545987,3352,2012,12,RUSH,AP-1800,Adam,Podlesh,Adam Podlesh,,,,,,,,,1
+548497,3367,2012,13,RUSH,MO-0500,Montell,Owens,Montell Owens,,,,,,,,,1
+549510,3373,2012,13,PASS,,,,,SB-1100,Sam,Bradford,Sam Bradford,LK-0200,Lance,Kendricks,Lance Kendricks,1
+551199,3383,2012,14,PASS,,,,,SB-1100,Sam,Bradford,Sam Bradford,CG-1060,Chris,Givens,Chris Givens,1
+552201,3389,2012,14,RUSH,KC-2350,Kirk,Cousins,Kirk Cousins,,,,,,,,,1
+554035,3400,2012,15,PASS,,,,,RT-0150,Ryan,Tannehill,Ryan Tannehill,AF-0200,Anthony,Fasano,Anthony Fasano,1
+554334,3402,2012,15,PASS,,,,,SB-1100,Sam,Bradford,Sam Bradford,DA-0900,Danny,Amendola,Danny Amendola,1
+561256,3444,2012,17,PASS,,,,,TR-0800,Tony,Romo,Tony Romo,DH-1800,Dwayne,Harris,Dwayne Harris,1
+561893,3448,2012,18,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,ZM-0200,Zach,Miller,Zach Miller,1
+562631,3452,2012,19,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,AJ-0900,Andre,Johnson,Andre Johnson,1
+565280,3468,2013,1,RUSH,SB-1100,Sam,Bradford,Sam Bradford,,,,,,,,,1
+566715,3476,2013,2,RUSH,AF-0900,Arian,Foster,Arian Foster,,,,,,,,,1
+567032,3478,2013,2,PASS,,,,,EM-0250,E.J.,Manuel,E.J. Manuel,RW-4050,Robert,Woods,Robert Woods,1
+570915,3501,2013,3,PASS,,,,,EM-0250,E.J.,Manuel,E.J. Manuel,SJ-0600,Steve,Johnson,Steve Johnson,1
+571448,3504,2013,4,RUSH,BC-3070,Benny,Cunningham,Benny Cunningham,,,,,,,,,1
+571624,3505,2013,4,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,AJ-0430,Alshon,Jeffery,Alshon Jeffery,1
+571638,3505,2013,4,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,BM-0300,Brandon,Marshall,Brandon Marshall,1
+574537,3522,2013,5,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,RW-1100,Reggie,Wayne,Reggie Wayne,1
+575051,3525,2013,5,RUSH,MF-1300,Matt,Forte,Matt Forte,,,,,,,,,1
+575704,3529,2013,5,PASS,,,,,TR-0800,Tony,Romo,Tony Romo,TW-2270,Terrance,Williams,Terrance Williams,1
+582621,3570,2013,8,RUSH,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,,,,,,,,,1
+585314,3586,2013,9,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,MB-4050,Marlon,Brown,Marlon Brown,1
+585500,3587,2013,9,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,CF-0650,Coby,Fleener,Coby Fleener,1
+586290,3592,2013,10,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,CF-0650,Coby,Fleener,Coby Fleener,1
+589335,3610,2013,11,PASS,,,,,DD-0450,Dominique,Davis,Dominique Davis,TG-1300,Tony,Gonzalez,Tony Gonzalez,1
+589680,3612,2013,11,PASS,,,,,RG-1850,Robert,Griffin,Robert Griffin,NW-0500,Nick,Williams,Nick Williams,1
+589698,3612,2013,11,RUSH,RG-1850,Robert,Griffin,Robert Griffin,,,,,,,,,1
+591195,3621,2013,12,PASS,,,,,BW-0850,Brandon,Weeden,Brandon Weeden,DB-1800,Davone,Bess,Davone Bess,1
+592046,3626,2013,12,PASS,,,,,KC-1400,Kellen,Clemens,Kellen Clemens,IP-0050,Isaiah,Pead,Isaiah Pead,1
+592198,3627,2013,12,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,DH-2800,Darrius,Heyward-Bey,Darrius Heyward-Bey,1
+592545,3629,2013,12,RUSH,AB-3400,Andre,Brown,Andre Brown,,,,,,,,,1
+595920,3649,2013,14,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,JE-0100,Julian,Edelman,Julian Edelman,1
+596645,3653,2013,14,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,TS-2300,Torrey,Smith,Torrey Smith,1
+597204,3657,2013,14,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,JB-2700,Joique,Bell,Joique Bell,1
+597277,3657,2013,14,RUSH,BB-3350,Bryce,Brown,Bryce Brown,,,,,,,,,1
+597285,3657,2013,14,PASS,,,,,NF-0250,Nick,Foles,Nick Foles,RC-2300,Riley,Cooper,Riley Cooper,1
+598234,3663,2013,14,PASS,,,,,JM-2900,Josh,McCown,Josh McCown,BM-0300,Brandon,Marshall,Brandon Marshall,1
+599948,3673,2013,15,PASS,,,,,NF-0250,Nick,Foles,Nick Foles,RC-2300,Riley,Cooper,Riley Cooper,1
+602554,3689,2013,16,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,JF-0650,Joseph,Fauria,Joseph Fauria,1
+602770,3690,2013,16,RUSH,RM-3900,Rashard,Mendenhall,Rashard Mendenhall,,,,,,,,,1
+603416,3694,2013,16,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,EB-0600,Earl,Bennett,Earl Bennett,1
+604048,3698,2013,17,RUSH,RR-0400,Ray,Rice,Ray Rice,,,,,,,,,1
+605188,3705,2013,17,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,JE-0100,Julian,Edelman,Julian Edelman,1
+607010,3716,2013,19,RUSH,MI-0100,Mark,Ingram,Mark Ingram,,,,,,,,,1
+607172,3717,2013,19,RUSH,SR-0700,Stevan,Ridley,Stevan Ridley,,,,,,,,,1
+607957,3722,2013,21,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,WW-0200,Wes,Welker,Wes Welker,1
+609728,3732,2014,1,PASS,,,,,AD-0100,Andy,Dalton,Andy Dalton,MS-0150,Mohamed,Sanu,Mohamed Sanu,1
+610531,3737,2014,1,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,JF-0650,Joseph,Fauria,Joseph Fauria,1
+612180,3747,2014,2,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,JC-5400,Jerricho,Cotchery,Jerricho Cotchery,1
+612785,3751,2014,2,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,RC-1500,Randall,Cobb,Randall Cobb,1
+615637,3768,2014,3,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,DT-0900,Demaryius,Thomas,Demaryius Thomas,1
+617637,3780,2014,4,PASS,,,,,TB-2650,Teddy,Bridgewater,Teddy Bridgewater,RE-0400,Rhett,Ellison,Rhett Ellison,1
+618623,3786,2014,5,RUSH,FJ-0100,Fred,Jackson,Fred Jackson,,,,,,,,,1
+621012,3800,2014,6,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,MB-1800,Martellus,Bennett,Martellus Bennett,1
+621196,3801,2014,6,PASS,,,,,KO-0700,Kyle,Orton,Kyle Orton,RW-4050,Robert,Woods,Robert Woods,1
+626167,3831,2014,8,RUSH,JF-2800,Justin,Forsett,Justin Forsett,,,,,,,,,1
+626675,3834,2014,8,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,DR-3200,Dante,Rosario,Dante Rosario,1
+626702,3834,2014,8,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,MF-1300,Matt,Forte,Matt Forte,1
+629368,3850,2014,9,RUSH,MA-1150,Matt,Asiata,Matt Asiata,,,,,,,,,1
+630178,3855,2014,9,PASS,,,,,BW-2625,Brad,Wing,Brad Wing,MS-3400,Matt,Spaeth,Matt Spaeth,1
+631441,3862,2014,10,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,HD-0300,Harry,Douglas,Harry Douglas,1
+631631,3863,2014,10,PASS,,,,,BB-2425,Blake,Bortles,Blake Bortles,AR-1250,Allen,Robinson,Allen Robinson,1
+635716,3888,2014,12,PASS,,,,,TB-2650,Teddy,Bridgewater,Teddy Bridgewater,CJ-1450,Charles,Johnson,Charles Johnson,1
+636716,3894,2014,12,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,1
+636757,3894,2014,12,RUSH,DT-0550,Dallas,Thomas,Dallas Thomas,,,,,,,,,1
+638710,3906,2014,13,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,AB-3500,Antonio,Brown,Antonio Brown,1
+638722,3906,2014,13,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,LM-1500,Lance,Moore,Lance Moore,1
+639564,3911,2014,13,RUSH,ST-0250,Stepfan,Taylor,Stepfan Taylor,,,,,,,,,1
+640179,3915,2014,14,RUSH,MF-1300,Matt,Forte,Matt Forte,,,,,,,,,1
+640338,3916,2014,14,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,HM-0200,Heath,Miller,Heath Miller,1
+641500,3923,2014,14,PASS,,,,,JH-3230,Johnny,Hekker,Johnny Hekker,CH-1230,Cory,Harkey,Cory Harkey,1
+641986,3926,2014,14,PASS,,,,,DS-3800,Drew,Stanton,Drew Stanton,JC-0700,John,Carlson,John Carlson,1
+645275,3946,2014,15,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,MB-1800,Martellus,Bennett,Martellus Bennett,1
+646154,3951,2014,16,RUSH,MA-1150,Matt,Asiata,Matt Asiata,,,,,,,,,1
+648290,3964,2014,17,RUSH,JB-2700,Joique,Bell,Joique Bell,,,,,,,,,1
+652063,3987,2014,20,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,LW-1450,Luke,Willson,Luke Willson,1
+652496,3990,2015,1,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,MW-1250,Markus,Wheaton,Markus Wheaton,1
+652883,3992,2015,1,PASS,,,,,RM-0300,Ryan,Mallett,Ryan Mallett,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,1
+653173,3994,2015,1,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,CF-0650,Coby,Fleener,Coby Fleener,1
+653663,3997,2015,1,RUSH,ML-2500,Marshawn,Lynch,Marshawn Lynch,,,,,,,,,1
+655423,4008,2015,2,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,AB-3500,Antonio,Brown,Antonio Brown,1
+655454,4008,2015,2,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,HM-0200,Heath,Miller,Heath Miller,1
+655537,4008,2015,2,PASS,,,,,CK-0100,Colin,Kaepernick,Colin Kaepernick,TS-2300,Torrey,Smith,Torrey Smith,1
+657569,4020,2015,2,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,RR-1050,Richard,Rodgers,Richard Rodgers,1
+657900,4022,2015,3,PASS,,,,,KC-2350,Kirk,Cousins,Kirk Cousins,JC-5680,Jamison,Crowder,Jamison Crowder,1
+658028,4023,2015,3,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,LT-0550,Levine,Toilolo,Levine Toilolo,1
+659873,4034,2015,3,PASS,,,,,RT-0150,Ryan,Tannehill,Ryan Tannehill,JL-0215,Jarvis,Landry,Jarvis Landry,1
+660391,4037,2015,3,PASS,,,,,AS-1600,Alex,Smith,Alex Smith,TK-0150,Travis,Kelce,Travis Kelce,1
+661134,4041,2015,4,RUSH,AW-1350,Andre,Williams,Andre Williams,,,,,,,,,1
+661972,4046,2015,4,RUSH,JH-4025,Jeremy,Hill,Jeremy Hill,,,,,,,,,1
+662186,4047,2015,4,PASS,,,,,JM-2900,Josh,McCown,Josh McCown,TG-0025,Taylor,Gabriel,Taylor Gabriel,1
+663785,4057,2015,5,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,VJ-0100,Vincent,Jackson,Vincent Jackson,1
+664173,4059,2015,5,PASS,,,,,JM-2900,Josh,McCown,Josh McCown,AH-1900,Andrew,Hawkins,Andrew Hawkins,1
+666319,4072,2015,6,PASS,,,,,JC-6200,Jay,Cutler,Jay Cutler,MF-1300,Matt,Forte,Matt Forte,1
+668116,4082,2015,7,RUSH,LM-1000,LeSean,McCoy,LeSean McCoy,,,,,,,,,1
+669632,4091,2015,7,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,LG-0750,Ladarius,Green,Ladarius Green,1
+669658,4091,2015,7,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,LG-0750,Ladarius,Green,Ladarius Green,1
+670129,4094,2015,7,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,NB-0450,Nick,Boyle,Nick Boyle,1
+670898,4099,2015,8,PASS,,,,,NF-0250,Nick,Foles,Nick Foles,JC-4300,Jared,Cook,Jared Cook,1
+672818,4110,2015,9,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,DA-0212,Davante,Adams,Davante Adams,1
+673151,4112,2015,9,PASS,,,,,MM-0912,Marcus,Mariota,Marcus Mariota,DW-0500,Delanie,Walker,Delanie Walker,1
+673445,4114,2015,9,RUSH,TB-2650,Teddy,Bridgewater,Teddy Bridgewater,,,,,,,,,1
+673746,4116,2015,9,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,DW-3600,DeAngelo,Williams,DeAngelo Williams,1
+674735,4121,2015,9,RUSH,JL-0280,Jeremy,Langford,Jeremy Langford,,,,,,,,,1
+675971,4129,2015,10,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,AB-3500,Antonio,Brown,Antonio Brown,1
+678238,4142,2015,11,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,JJ-4200,James,Jones,James Jones,1
+679734,4151,2015,12,PASS,,,,,MC-0700,Matt,Cassel,Matt Cassel,DM-1600,Darren,McFadden,Darren McFadden,1
+681015,4159,2015,12,PASS,,,,,MM-0912,Marcus,Mariota,Marcus Mariota,DG-2650,Dorial,Green-Beckham,Dorial Green-Beckham,1
+681692,4163,2015,12,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,JJ-0725,Jesse,James,Jesse James,1
+682934,4170,2015,13,RUSH,MI-0100,Mark,Ingram,Mark Ingram,,,,,,,,,1
+683270,4172,2015,13,RUSH,JG-3850,Jonathan,Grimes,Jonathan Grimes,,,,,,,,,1
+683387,4173,2015,13,RUSH,JA-0450,Jay,Ajayi,Jay Ajayi,,,,,,,,,1
+684260,4178,2015,13,PASS,,,,,AS-1600,Alex,Smith,Alex Smith,TK-0150,Travis,Kelce,Travis Kelce,1
+684525,4180,2015,13,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,WJ-0300,Will,Johnson,Will Johnson,1
+685724,4187,2015,14,PASS,,,,,MM-0912,Marcus,Mariota,Marcus Mariota,DM-1200,Dexter,McCluster,Dexter McCluster,1
+688703,4205,2015,15,RUSH,TT-0500,Tyrod,Taylor,Tyrod Taylor,,,,,,,,,1
+690231,4214,2015,16,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,SR-0750,Seth,Roberts,Seth Roberts,1
+690439,4215,2015,16,PASS,,,,,KC-2350,Kirk,Cousins,Kirk Cousins,JC-5680,Jamison,Crowder,Jamison Crowder,1
+691434,4221,2015,16,PASS,,,,,BB-2425,Blake,Bortles,Blake Bortles,CH-1200,Clay,Harbor,Clay Harbor,1
+692321,4227,2015,16,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,JJ-4200,James,Jones,James Jones,1
+693518,4234,2015,17,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,FT-0300,Fitzgerald,Toussaint,Fitzgerald Toussaint,1
+695977,4249,2015,18,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,JA-0050,Jared,Abbrederis,Jared Abbrederis,1
+696673,4253,2015,19,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,DT-0900,Demaryius,Thomas,Demaryius Thomas,1
+696998,4255,2015,20,RUSH,JN-0625,J.J.,Nelson,J.J. Nelson,,,,,,,,,1
+697021,4255,2015,20,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,MT-1300,Mike,Tolbert,Mike Tolbert,1
+697198,4256,2015,21,PASS,,,,,PM-0200,Peyton,Manning,Peyton Manning,BF-0950,Bennie,Fowler,Bennie Fowler,1
+698477,4264,2016,1,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,AC-2350,Amari,Cooper,Amari Cooper,1
+698498,4264,2016,1,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,MC-2900,Michael,Crabtree,Michael Crabtree,1
+698807,4266,2016,1,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,MS-0150,Mohamed,Sanu,Mohamed Sanu,1
+699113,4268,2016,1,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,DA-0850,Dwayne,Allen,Dwayne Allen,1
+701850,4284,2016,2,RUSH,MR-2500,Matt,Ryan,Matt Ryan,,,,,,,,,1
+702075,4285,2016,2,PASS,,,,,TS-1450,Trevor,Siemian,Trevor Siemian,DT-0900,Demaryius,Thomas,Demaryius Thomas,1
+703209,4292,2016,3,PASS,,,,,CK-0550,Cody,Kessler,Cody Kessler,GB-0200,Gary,Barnidge,Gary Barnidge,1
+703675,4295,2016,3,RUSH,JM-3450,Jerick,McKinnon,Jerick McKinnon,,,,,,,,,1
+704426,4299,2016,3,RUSH,CH-5000,Carlos,Hyde,Carlos Hyde,,,,,,,,,1
+705182,4304,2016,3,RUSH,MI-0100,Mark,Ingram,Mark Ingram,,,,,,,,,1
+705861,4308,2016,4,RUSH,CN-0500,Cam,Newton,Cam Newton,,,,,,,,,1
+705881,4308,2016,4,PASS,,,,,DA-1300,Derek,Anderson,Derek Anderson,GO-0100,Greg,Olsen,Greg Olsen,1
+706228,4310,2016,4,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,GT-0100,Golden,Tate,Golden Tate,1
+706399,4311,2016,4,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,MW-0500,Mike,Wallace,Mike Wallace,1
+707443,4318,2016,4,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,MW-1250,Markus,Wheaton,Markus Wheaton,1
+709684,4331,2016,5,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,AC-2350,Amari,Cooper,Amari Cooper,1
+710000,4333,2016,5,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,AH-3862,Adam,Humphries,Adam Humphries,1
+710591,4336,2016,6,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,DF-2200,Devin,Funchess,Devin Funchess,1
+711445,4342,2016,6,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,LB-0250,Le'Veon,Bell,Le'Veon Bell,1
+713170,4352,2016,7,PASS,,,,,RT-0150,Ryan,Tannehill,Ryan Tannehill,JL-0215,Jarvis,Landry,Jarvis Landry,1
+713224,4352,2016,7,PASS,,,,,TT-0500,Tyrod,Taylor,Tyrod Taylor,RB-4900,Reggie,Bush,Reggie Bush,1
+713622,4355,2016,7,RUSH,CW-1425,Carson,Wentz,Carson Wentz,,,,,,,,,1
+715186,4364,2016,8,RUSH,BB-2425,Blake,Bortles,Blake Bortles,,,,,,,,,1
+715765,4367,2016,8,RUSH,AR-1300,Aaron,Rodgers,Aaron Rodgers,,,,,,,,,1
+716133,4369,2016,8,PASS,,,,,EM-0250,E.J.,Manuel,E.J. Manuel,NO-0150,Nick,O'Leary,Nick O'Leary,1
+716312,4370,2016,8,PASS,,,,,JM-2900,Josh,McCown,Josh McCown,TP-2400,Terrelle,Pryor,Terrelle Pryor,1
+716458,4371,2016,8,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,ME-0600,Mike,Evans,Mike Evans,1
+717547,4377,2016,9,PASS,,,,,MG-0850,Mike,Glennon,Mike Glennon,BM-3800,Brandon,Myers,Brandon Myers,1
+718490,4383,2016,9,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,SS-2100,Steve,Smith,Steve Smith,1
+719537,4389,2016,9,RUSH,TT-0500,Tyrod,Taylor,Tyrod Taylor,,,,,,,,,1
+719693,4390,2016,10,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,KJ-1400,Kyle,Juszczyk,Kyle Juszczyk,1
+719873,4391,2016,10,RUSH,RM-1200,Ryan,Mathews,Ryan Mathews,,,,,,,,,1
+720566,4395,2016,10,PASS,,,,,BB-2425,Blake,Bortles,Blake Bortles,AR-1250,Allen,Robinson,Allen Robinson,1
+720710,4396,2016,10,PASS,,,,,AS-1600,Alex,Smith,Alex Smith,TK-0150,Travis,Kelce,Travis Kelce,1
+722952,4410,2016,11,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,DJ-1300,David,Johnson,David Johnson,1
+723857,4415,2016,11,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,NA-0050,Nelson,Agholor,Nelson Agholor,1
+725109,4423,2016,12,RUSH,LM-1000,LeSean,McCoy,LeSean McCoy,,,,,,,,,1
+726254,4430,2016,12,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,SR-0750,Seth,Roberts,Seth Roberts,1
+726433,4431,2016,12,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,JW-2550,James,White,James White,1
+726613,4432,2016,12,PASS,,,,,AS-1600,Alex,Smith,Alex Smith,DH-1450,Demetrius,Harris,Demetrius Harris,1
+727605,4438,2016,13,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,AH-3650,Austin,Hooper,Austin Hooper,1
+728426,4443,2016,13,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,SR-0750,Seth,Roberts,Seth Roberts,1
+728742,4445,2016,13,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,ME-0600,Mike,Evans,Mike Evans,1
+729557,4450,2016,14,PASS,,,,,CP-0500,Carson,Palmer,Carson Palmer,DJ-1325,David,Johnson,David Johnson,1
+731152,4460,2016,14,RUSH,BP-0625,Bryce,Petty,Bryce Petty,,,,,,,,,1
+733000,4472,2016,15,RUSH,RM-1200,Ryan,Mathews,Ryan Mathews,,,,,,,,,1
+735580,4487,2016,16,RUSH,MI-0100,Mark,Ingram,Mark Ingram,,,,,,,,,1
+736122,4490,2016,16,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,TH-1850,T.Y.,Hilton,T.Y. Hilton,1
+736276,4491,2016,16,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,MR-0500,Marcel,Reece,Marcel Reece,1
+736482,4492,2016,16,RUSH,CK-0100,Colin,Kaepernick,Colin Kaepernick,,,,,,,,,1
+736728,4494,2016,16,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,SS-2100,Steve,Smith,Steve Smith,1
+738288,4503,2016,17,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,DA-0212,Davante,Adams,Davante Adams,1
+738789,4506,2016,17,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,JE-0100,Julian,Edelman,Julian Edelman,1
+741056,4520,2016,19,RUSH,DP-2037,Dak,Prescott,Dak Prescott,,,,,,,,,1
+741207,4521,2016,20,RUSH,AR-0875,Aaron,Ripkowski,Aaron Ripkowski,,,,,,,,,1
+741410,4522,2016,20,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,DW-3600,DeAngelo,Williams,DeAngelo Williams,1
+741559,4523,2016,21,RUSH,JW-2550,James,White,James White,,,,,,,,,1
+741579,4523,2016,21,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,DA-0900,Danny,Amendola,Danny Amendola,1
+742916,4531,2017,1,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,AJ-0430,Alshon,Jeffery,Alshon Jeffery,1
+743069,4532,2017,1,RUSH,IC-0300,Isaiah,Crowell,Isaiah Crowell,,,,,,,,,1
+747670,4560,2017,3,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,BC-2325,Brandin,Cooks,Brandin Cooks,1
+750178,4576,2017,4,PASS,,,,,MS-4100,Matthew,Stafford,Matthew Stafford,TJ-2350,T.J.,Jones,T.J. Jones,1
+750712,4579,2017,4,RUSH,TW-1350,Terrance,West,Terrance West,,,,,,,,,1
+751741,4585,2017,4,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,DB-0500,Doug,Baldwin,Doug Baldwin,1
+754127,4599,2017,5,RUSH,DW-1725,Deshaun,Watson,Deshaun Watson,,,,,,,,,1
+754255,4600,2017,5,RUSH,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,,,,,,,,,1
+754381,4601,2017,6,RUSH,LB-0500,LeGarrette,Blount,LeGarrette Blount,,,,,,,,,1
+754633,4602,2017,6,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,NB-0450,Nick,Boyle,Nick Boyle,1
+754732,4603,2017,6,PASS,,,,,DW-1725,Deshaun,Watson,Deshaun Watson,RG-1870,Ryan,Griffin,Ryan Griffin,1
+755988,4610,2017,6,RUSH,DM-0450,Doug,Martin,Doug Martin,,,,,,,,,1
+759369,4631,2017,8,RUSH,JM-3450,Jerick,McKinnon,Jerick McKinnon,,,,,,,,,1
+760471,4638,2017,8,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,AJ-0430,Alshon,Jeffery,Alshon Jeffery,1
+763220,4654,2017,9,RUSH,KD-1462,Kenyan,Drake,Kenyan Drake,,,,,,,,,1
+764160,4660,2017,10,PASS,,,,,BB-2425,Blake,Bortles,Blake Bortles,ML-0650,Marqise,Lee,Marqise Lee,1
+764859,4664,2017,10,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,MB-4550,Martavis,Bryant,Martavis Bryant,1
+765365,4667,2017,10,RUSH,OD-0200,Orleans,Darkwa,Orleans Darkwa,,,,,,,,,1
+767001,4677,2017,11,RUSH,AK-0050,Alvin,Kamara,Alvin Kamara,,,,,,,,,1
+767649,4681,2017,11,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,MC-2900,Michael,Crabtree,Michael Crabtree,1
+767775,4682,2017,11,RUSH,CC-2350,Corey,Clement,Corey Clement,,,,,,,,,1
+767788,4682,2017,11,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,AJ-0430,Alshon,Jeffery,Alshon Jeffery,1
+767812,4682,2017,11,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,TB-3950,Trey,Burton,Trey Burton,1
+767989,4683,2017,11,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,JG-2900,Jimmy,Graham,Jimmy Graham,1
+768792,4688,2017,12,RUSH,CN-0500,Cam,Newton,Cam Newton,,,,,,,,,1
+770267,4697,2017,12,PASS,,,,,BG-0100,Blaine,Gabbert,Blaine Gabbert,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,1
+770355,4698,2017,12,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,AB-3500,Antonio,Brown,Antonio Brown,1
+771532,4705,2017,13,PASS,,,,,BB-2425,Blake,Bortles,Blake Bortles,ML-1500,Marcedes,Lewis,Marcedes Lewis,1
+771767,4706,2017,13,RUSH,EM-0950,Elijah,McGuire,Elijah McGuire,,,,,,,,,1
+774123,4721,2017,14,PASS,,,,,CK-0250,Case,Keenum,Case Keenum,BB-1550,Blake,Bell,Blake Bell,1
+774291,4722,2017,14,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,MC-2900,Michael,Crabtree,Michael Crabtree,1
+775934,4732,2017,15,PASS,,,,,BO-0650,Brock,Osweiler,Brock Osweiler,CL-0275,Cody,Latimer,Cody Latimer,1
+777962,4744,2017,15,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,RG-2200,Rob,Gronkowski,Rob Gronkowski,1
+779412,4753,2017,16,PASS,,,,,BO-0650,Brock,Osweiler,Brock Osweiler,CA-0750,C.J.,Anderson,C.J. Anderson,1
+780431,4759,2017,16,PASS,,,,,BB-2425,Blake,Bortles,Blake Bortles,BK-1050,Ben,Koyack,Ben Koyack,1
+782213,4770,2017,17,PASS,,,,,BH-2300,Brett,Hundley,Brett Hundley,RC-1500,Randall,Cobb,Randall Cobb,1
+782223,4770,2017,17,PASS,,,,,GT-0100,Golden,Tate,Golden Tate,MS-4100,Matthew,Stafford,Matthew Stafford,1
+782718,4773,2017,17,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,ME-0600,Mike,Evans,Mike Evans,1
+785700,4791,2018,1,RUSH,JA-0450,Jay,Ajayi,Jay Ajayi,,,,,,,,,1
+786944,4798,2018,1,RUSH,AK-0050,Alvin,Kamara,Alvin Kamara,,,,,,,,,1
+786958,4798,2018,1,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,TG-0900,Ted,Ginn,Ted Ginn,1
+787259,4800,2018,1,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,AG-0500,Antonio,Gates,Antonio Gates,1
+787282,4800,2018,1,RUSH,MG-1150,Melvin,Gordon,Melvin Gordon,,,,,,,,,1
+787591,4802,2018,1,RUSH,DP-2037,Dak,Prescott,Dak Prescott,,,,,,,,,1
+788960,4810,2018,2,PASS,,,,,KC-2350,Kirk,Cousins,Kirk Cousins,SD-0537,Stefon,Diggs,Stefon Diggs,1
+789123,4811,2018,2,RUSH,AK-0050,Alvin,Kamara,Alvin Kamara,,,,,,,,,1
+789385,4813,2018,2,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,JC-4075,James,Conner,James Conner,1
+790002,4817,2018,2,RUSH,TG-1950,Todd,Gurley,Todd Gurley,,,,,,,,,1
+790039,4817,2018,2,RUSH,TG-1950,Todd,Gurley,Todd Gurley,,,,,,,,,1
+790063,4817,2018,2,PASS,,,,,JG-1850,Jared,Goff,Jared Goff,MB-3862,Malcolm,Brown,Malcolm Brown,1
+791041,4823,2018,3,PASS,,,,,JL-0215,Jarvis,Landry,Jarvis Landry,BM-0650,Baker,Mayfield,Baker Mayfield,1
+791216,4824,2018,3,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,AH-3650,Austin,Hooper,Austin Hooper,1
+791235,4824,2018,3,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,MS-0150,Mohamed,Sanu,Mohamed Sanu,1
+792046,4829,2018,3,PASS,,,,,JG-0650,Jimmy,Garoppolo,Jimmy Garoppolo,GK-0075,George,Kittle,George Kittle,1
+793649,4839,2018,4,PASS,,,,,KC-2350,Kirk,Cousins,Kirk Cousins,LM-1850,Latavius,Murray,Latavius Murray,1
+794515,4844,2018,4,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,CR-1525,Chester,Rogers,Chester Rogers,1
+795278,4849,2018,4,RUSH,DJ-1850,Duke,Johnson,Duke Johnson,,,,,,,,,1
+795323,4849,2018,4,RUSH,DJ-1850,Duke,Johnson,Duke Johnson,,,,,,,,,1
+795413,4849,2018,4,PASS,,,,,DC-0725,Derek,Carr,Derek Carr,JN-0900,Jordy,Nelson,Jordy Nelson,1
+795515,4850,2018,4,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,MG-1150,Melvin,Gordon,Melvin Gordon,1
+795744,4851,2018,4,PASS,,,,,EM-0200,Eli,Manning,Eli Manning,SS-1250,Sterling,Shepard,Sterling Shepard,1
+795838,4852,2018,4,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,JC-4075,James,Conner,James Conner,1
+796565,4856,2018,5,PASS,,,,,EM-0200,Eli,Manning,Eli Manning,RE-0400,Rhett,Ellison,Rhett Ellison,1
+797052,4859,2018,5,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,JW-3650,Jamaal,Williams,Jamaal Williams,1
+797909,4864,2018,5,RUSH,WS-0650,Wendell,Smallwood,Wendell Smallwood,,,,,,,,,1
+799109,4871,2018,6,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,1
+799252,4872,2018,6,PASS,,,,,BM-0650,Baker,Mayfield,Baker Mayfield,AC-0237,Antonio,Callaway,Antonio Callaway,1
+799565,4874,2018,6,PASS,,,,,BO-0650,Brock,Osweiler,Brock Osweiler,KS-2350,Kenny,Stills,Kenny Stills,1
+800236,4878,2018,6,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,TS-2300,Torrey,Smith,Torrey Smith,1
+801595,4887,2018,7,RUSH,MM-0050,Marlon,Mack,Marlon Mack,,,,,,,,,1
+802472,4892,2018,7,PASS,,,,,CN-0500,Cam,Newton,Cam Newton,JW-6560,Jarius,Wright,Jarius Wright,1
+803332,4897,2018,7,RUSH,SB-0212,Saquon,Barkley,Saquon Barkley,,,,,,,,,1
+804152,4902,2018,8,PASS,,,,,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,CG-1425,Chris,Godwin,Chris Godwin,1
+804910,4907,2018,8,PASS,,,,,AL-1100,Andrew,Luck,Andrew Luck,CR-1525,Chester,Rogers,Chester Rogers,1
+805129,4908,2018,8,PASS,,,,,JR-3250,Josh,Rosen,Josh Rosen,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,1
+805241,4909,2018,8,PASS,,,,,JG-1850,Jared,Goff,Jared Goff,TG-1950,Todd,Gurley,Todd Gurley,1
+807373,4922,2018,9,PASS,,,,,JG-1850,Jared,Goff,Jared Goff,GE-0400,Gerald,Everett,Gerald Everett,1
+807991,4926,2018,10,PASS,,,,,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,TB-3950,Trey,Burton,Trey Burton,1
+808574,4930,2018,10,RUSH,MM-0050,Marlon,Mack,Marlon Mack,,,,,,,,,1
+810358,4941,2018,11,RUSH,GE-0150,Gus,Edwards,Gus Edwards,,,,,,,,,1
+810451,4942,2018,11,PASS,,,,,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,JB-2950,Josh,Bellamy,Josh Bellamy,1
+810524,4942,2018,11,PASS,,,,,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,AS-0775,Adam,Shaheen,Adam Shaheen,1
+810539,4942,2018,11,PASS,,,,,KC-2350,Kirk,Cousins,Kirk Cousins,AT-0350,Adam,Thielen,Adam Thielen,1
+813553,4961,2018,12,RUSH,CC-2350,Corey,Clement,Corey Clement,,,,,,,,,1
+813612,4961,2018,12,RUSH,JA-0275,Josh,Adams,Josh Adams,,,,,,,,,1
+815682,4974,2018,13,PASS,,,,,JA-1087,Josh,Allen,Josh Allen,ZJ-0100,Zay,Jones,Zay Jones,1
+816021,4976,2018,13,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,AG-0500,Antonio,Gates,Antonio Gates,1
+816030,4976,2018,13,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,KA-0650,Keenan,Allen,Keenan Allen,1
+817035,4982,2018,13,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,GT-0100,Golden,Tate,Golden Tate,1
+818520,4991,2018,14,RUSH,AK-0050,Alvin,Kamara,Alvin Kamara,,,,,,,,,1
+818709,4992,2018,14,PASS,,,,,JJ-3500,Josh,Johnson,Josh Johnson,VD-0100,Vernon,Davis,Vernon Davis,1
+818719,4992,2018,14,PASS,,,,,JJ-3500,Josh,Johnson,Josh Johnson,MF-0950,Michael,Floyd,Michael Floyd,1
+819702,4998,2018,14,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,TL-1025,Tyler,Lockett,Tyler Lockett,1
+819877,4999,2018,15,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,MW-2825,Mike,Williams,Mike Williams,1
+820780,5005,2018,15,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,DA-0212,Davante,Adams,Davante Adams,1
+822265,5014,2018,15,PASS,,,,,DB-3800,Drew,Brees,Drew Brees,MT-0875,Michael,Thomas,Michael Thomas,1
+823205,5020,2018,16,PASS,,,,,JD-2850,Jeff,Driskel,Jeff Driskel,CC-4450,Cody,Core,Cody Core,1
+823883,5024,2018,16,RUSH,AR-1300,Aaron,Rodgers,Aaron Rodgers,,,,,,,,,1
+824458,5028,2018,16,PASS,,,,,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,ER-0462,Eli,Rogers,Eli Rogers,1
+824710,5029,2018,16,RUSH,PM-0025,Patrick,Mahomes,Patrick Mahomes,,,,,,,,,1
+825794,5036,2018,17,PASS,,,,,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,NK-0800,Nick,Kwiatkoski,Nick Kwiatkoski,1
+826243,5039,2018,17,PASS,,,,,EM-0200,Eli,Manning,Eli Manning,EE-0400,Evan,Engram,Evan Engram,1
+826300,5039,2018,17,PASS,,,,,DP-2037,Dak,Prescott,Dak Prescott,MG-0175,Michael,Gallup,Michael Gallup,1
+827060,5044,2018,17,PASS,,,,,CK-0250,Case,Keenum,Case Keenum,CS-4462,Courtland,Sutton,Courtland Sutton,1
+827254,5045,2018,17,PASS,,,,,NM-0687,Nick,Mullens,Nick Mullens,TT-0450,Trent,Taylor,Trent Taylor,1
+827385,5046,2018,17,RUSH,DJ-1325,David,Johnson,David Johnson,,,,,,,,,1
+827697,5048,2018,18,RUSH,MD-0150,Mike,Davis,Mike Davis,,,,,,,,,1
+827744,5048,2018,18,RUSH,CC-0750,Chris,Carson,Chris Carson,,,,,,,,,1
+827860,5049,2018,18,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,MW-2825,Mike,Williams,Mike Williams,1
+828354,5052,2018,19,PASS,,,,,DP-2037,Dak,Prescott,Dak Prescott,AC-2350,Amari,Cooper,Amari Cooper,1
+828560,5053,2018,19,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,KA-0650,Keenan,Allen,Keenan Allen,1
+829838,5061,2019,1,PASS,,,,,SD-0175,Sam,Darnold,Sam Darnold,LB-0250,Le'Veon,Bell,Le'Veon Bell,1
+830523,5065,2019,1,RUSH,DS-3300,Darren,Sproles,Darren Sproles,,,,,,,,,1
+830870,5067,2019,1,RUSH,MM-0050,Marlon,Mack,Marlon Mack,,,,,,,,,1
+831063,5068,2019,1,PASS,,,,,KM-3500,Kyler,Murray,Kyler Murray,CK-0825,Christian,Kirk,Christian Kirk,1
+831419,5070,2019,1,PASS,,,,,JG-0650,Jimmy,Garoppolo,Jimmy Garoppolo,DS-0150,Deebo,Samuel,Deebo Samuel,1
+832208,5075,2019,2,PASS,,,,,KM-3500,Kyler,Murray,Kyler Murray,KJ-0537,KeeSean,Johnson,KeeSean Johnson,1
+834036,5086,2019,2,PASS,,,,,JF-1900,Joe,Flacco,Joe Flacco,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,1
+834355,5088,2019,2,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,ZE-0100,Zach,Ertz,Zach Ertz,1
+835067,5093,2019,3,PASS,,,,,JA-1087,Josh,Allen,Josh Allen,CB-1130,Cole,Beasley,Cole Beasley,1
+836270,5100,2019,3,PASS,,,,,DJ-2275,Daniel,Jones,Daniel Jones,SS-1250,Sterling,Shepard,Sterling Shepard,1
+837630,5108,2019,4,RUSH,MI-0100,Mark,Ingram,Mark Ingram,,,,,,,,,1
+840144,5123,2019,5,PASS,,,,,MR-2500,Matt,Ryan,Matt Ryan,AH-3650,Austin,Hooper,Austin Hooper,1
+842451,5137,2019,6,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,ME-0600,Mike,Evans,Mike Evans,1
+842483,5137,2019,6,RUSH,JW-5650,Jameis,Winston,Jameis Winston,,,,,,,,,1
+842831,5139,2019,6,PASS,,,,,DW-1725,Deshaun,Watson,Deshaun Watson,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,1
+843311,5142,2019,6,PASS,,,,,BM-0650,Baker,Mayfield,Baker Mayfield,DH-1450,Demetrius,Harris,Demetrius Harris,1
+845104,5153,2019,7,PASS,,,,,GM-1350,Gardner,Minshew,Gardner Minshew,CC-3950,Chris,Conley,Chris Conley,1
+845422,5155,2019,7,RUSH,JA-1087,Josh,Allen,Josh Allen,,,,,,,,,1
+846406,5161,2019,7,PASS,,,,,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,AS-0775,Adam,Shaheen,Adam Shaheen,1
+847643,5169,2019,8,PASS,,,,,SD-0175,Sam,Darnold,Sam Darnold,RG-1870,Ryan,Griffin,Ryan Griffin,1
+847927,5171,2019,8,RUSH,MS-0125,Miles,Sanders,Miles Sanders,,,,,,,,,1
+848107,5172,2019,8,PASS,,,,,MS-0200,Matt,Schaub,Matt Schaub,CR-0862,Calvin,Ridley,Calvin Ridley,1
+848285,5173,2019,8,PASS,,,,,JW-5650,Jameis,Winston,Jameis Winston,CG-1425,Chris,Godwin,Chris Godwin,1
+848455,5174,2019,8,RUSH,CM-1225,Christian,McCaffrey,Christian McCaffrey,,,,,,,,,1
+849317,5179,2019,9,PASS,,,,,KM-3500,Kyler,Murray,Kyler Murray,KD-1462,Kenyan,Drake,Kenyan Drake,1
+850732,5188,2019,9,PASS,,,,,RW-3850,Russell,Wilson,Russell Wilson,DM-2275,D.K.,Metcalf,D.K. Metcalf,1
+851100,5190,2019,9,RUSH,AR-1300,Aaron,Rodgers,Aaron Rodgers,,,,,,,,,1
+852791,5200,2019,10,RUSH,RT-0150,Ryan,Tannehill,Ryan Tannehill,,,,,,,,,1
+852905,5201,2019,10,PASS,,,,,DJ-2275,Daniel,Jones,Daniel Jones,BF-0950,Bennie,Fowler,Bennie Fowler,1
+853442,5204,2019,10,PASS,,,,,KC-2350,Kirk,Cousins,Kirk Cousins,KR-1200,Kyle,Rudolph,Kyle Rudolph,1
+853615,5205,2019,10,PASS,,,,,JG-0650,Jimmy,Garoppolo,Jimmy Garoppolo,KB-1625,Kendrick,Bourne,Kendrick Bourne,1
+854335,5209,2019,11,RUSH,TP-1650,Tony,Pollard,Tony Pollard,,,,,,,,,1
+854846,5212,2019,11,PASS,,,,,NF-0250,Nick,Foles,Nick Foles,CC-3950,Chris,Conley,Chris Conley,1
+855151,5214,2019,11,PASS,,,,,DH-1912,Dwayne,Haskins,Dwayne Haskins,TQ-0100,Trey,Quinn,Trey Quinn,1
+855610,5217,2019,11,RUSH,JW-2550,James,White,James White,,,,,,,,,1
+855966,5219,2019,11,PASS,,,,,PR-0300,Philip,Rivers,Philip Rivers,HH-0225,Hunter,Henry,Hunter Henry,1
+857612,5229,2019,12,PASS,,,,,NF-0250,Nick,Foles,Nick Foles,DC-1418,D.J.,Chark,D.J. Chark,1
+857940,5231,2019,12,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,DA-0212,Davante,Adams,Davante Adams,1
+858637,5235,2019,13,PASS,,,,,DP-2037,Dak,Prescott,Dak Prescott,JW-6000,Jason,Witten,Jason Witten,1
+859375,5240,2019,13,PASS,,,,,CW-1425,Carson,Wentz,Carson Wentz,NA-0050,Nelson,Agholor,Nelson Agholor,1
+859430,5240,2019,13,PASS,,,,,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,PL-0012,Patrick,Laird,Patrick Laird,1
+859640,5242,2019,13,RUSH,PB-0125,Peyton,Barber,Peyton Barber,,,,,,,,,1
+859734,5242,2019,13,PASS,,,,,GM-1350,Gardner,Minshew,Gardner Minshew,DW-2275,Dede,Westbrook,Dede Westbrook,1
+861247,5251,2019,14,PASS,,,,,JA-1087,Josh,Allen,Josh Allen,CB-1130,Cole,Beasley,Cole Beasley,1
+862055,5256,2019,14,PASS,,,,,JB-5725,Jacoby,Brissett,Jacoby Brissett,ZP-0050,Zach,Pascal,Zach Pascal,1
+863629,5266,2019,15,RUSH,MI-0100,Mark,Ingram,Mark Ingram,,,,,,,,,1
+863716,5266,2019,15,PASS,,,,,SD-0175,Sam,Darnold,Sam Darnold,RA-1125,Robby,Anderson,Robby Anderson,1
+864147,5269,2019,15,PASS,,,,,PM-0025,Patrick,Mahomes,Patrick Mahomes,SW-0450,Sammy,Watkins,Sammy Watkins,1
+865849,5279,2019,15,RUSH,TG-1950,Todd,Gurley,Todd Gurley,,,,,,,,,1
+866468,5283,2019,16,PASS,,,,,TB-2300,Tom,Brady,Tom Brady,JE-0100,Julian,Edelman,Julian Edelman,1
+866837,5285,2019,16,PASS,,,,,AD-0100,Andy,Dalton,Andy Dalton,TE-0300,Tyler,Eifert,Tyler Eifert,1
+866843,5285,2019,16,RUSH,AD-0100,Andy,Dalton,Andy Dalton,,,,,,,,,1
+868784,5297,2019,16,PASS,,,,,AR-1300,Aaron,Rodgers,Aaron Rodgers,GA-0250,Geronimo,Allison,Geronimo Allison,1
+868918,5298,2019,17,RUSH,JW-5650,Jameis,Winston,Jameis Winston,,,,,,,,,1
+869582,5302,2019,17,PASS,,,,,GM-1350,Gardner,Minshew,Gardner Minshew,DW-2275,Dede,Westbrook,Dede Westbrook,1
+871562,5314,2019,18,RUSH,DW-1725,Deshaun,Watson,Deshaun Watson,,,,,,,,,1
+871588,5314,2019,18,PASS,,,,,DW-1725,Deshaun,Watson,Deshaun Watson,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,1

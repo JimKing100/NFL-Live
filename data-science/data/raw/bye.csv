@@ -1,0 +1,33 @@
+﻿player,first,last,name,position1,bye-week
+SF,San Francisco,49ers,San Francisco 49ers,DF,4
+CHI,Chicago,Bears,Chicago Bears,DF,6
+CIN,Cincinnati,Bengals,Cincinnati Bengals,DF,9
+BUF,Buffalo,Bills,Buffalo Bills,DF,6
+DEN,Denver,Broncos,Denver Broncos,DF,10
+CLE,Cleveland,Browns,Cleveland Browns,DF,7
+TB,Tampa Bay,Buccaneers,Tampa Bay Buccaneers,DF,7
+ARI,Arizona,Cardinals,Arizona Cardinals,DF,12
+LAC,Los Angeles,Chargers,Los Angeles Chargers,DF,12
+KC,Kansas City,Chiefs,Kansas City Chiefs,DF,12
+IND,Indianapolis,Colts,Indianapolis Colts,DF,6
+DAL,Dallas,Cowboys,Dallas Cowboys,DF,8
+MIA,Miami,Dolphins,Miami Dolphins,DF,5
+PHI,Philadelphia,Eagles,Philadelphia Eagles,DF,10
+ATL,Atlanta,Falcons,Atlanta Falcons,DF,9
+NYG,New York,Giants,New York Giants,DF,11
+JAC,Jacksonville,Jaguars,Jacksonville Jaguars,DF,10
+NYJ,New York,Jets,New York Jets,DF,4
+DET,Detroit,Lions,Detroit Lions,DF,5
+GB,Green Bay,Packers,Green Bay Packers,DF,11
+CAR,Carolina,Panthers,Carolina Panthers,DF,7
+NE,New England,Patriots,New England Patriots,DF,10
+OAK,Oakland,Raiders,Oakland Raiders,DF,6
+LA,Los Angeles,Rams,Los Angeles Rams,DF,9
+BAL,Baltimore,Ravens,Baltimore Ravens,DF,8
+WAS,Washington,Redskins,Washington Redskins,DF,10
+NO,New Orleans,Saints,New Orleans Saints,DF,9
+SEA,Seattle,Seahawks,Seattle Seahawks,DF,11
+PIT,Pittsburgh,Steelers,Pittsburgh Steelers,DF,7
+HOU,Houston,Texans,Houston Texans,DF,10
+TEN,Tennessee,Titans,Tennessee Titans,DF,11
+MIN,Minnesota,Vikings,Minnesota Vikings,DF,12
