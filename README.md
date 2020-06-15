@@ -82,7 +82,7 @@ The data science directory containing the following Colab notebooks and data:
 - **te** - directory containing week(1-17)-pred-offense-norookies-te.csv
 - **wr** - directory containing week(1-17)-pred-offense-norookies-wr.csv
 
-#### metrics - The Colab notebooks used to create the performance metrics and graphs
+#### *metrics* - The Colab notebooks used to create the performance metrics and graphs
 
 - Graphs.ipynb
 - MetricsARIMA_MAE.ipynb
@@ -90,7 +90,7 @@ The data science directory containing the following Colab notebooks and data:
 - MetricsNN_MAE.ipynb
 - MetricsNN_PvA.ipynb
 
-#### model-arima - The Colab notebooks calculating the ARIMA model predicted fantasy football points for each 2019 NFL player
+#### *model-arima* - The Colab notebooks calculating the ARIMA model predicted fantasy football points for each 2019 NFL player
 
 - Predictions_Combined.ipynb
 - Predictions_Defense.ipynb
@@ -98,13 +98,13 @@ The data science directory containing the following Colab notebooks and data:
 - Predictions_Rookies_1.ipynb
 - Predictions_Rookies_2_to_17.ipynb
 
-#### model-rnn - The Colab notebooks calculating the RNN model predicted fantasy football points for each 2019 NFL player
+#### *model-rnn* - The Colab notebooks calculating the RNN model predicted fantasy football points for each 2019 NFL player
 
 - Predictions_Combined.ipynb
 - Predictions_Defense.ipynb
 - Predictions_Offense.ipynb
 
-#### players - The Colab notebook creating the detailed 2019 NFL player list
+#### *players* - The Colab notebook creating the detailed 2019 NFL player list
 
 - Players_Full.ipynb
 
