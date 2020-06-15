@@ -50,7 +50,8 @@ The data science directory containing the following Colab notebooks and data:
 - nb_metrics.csv
 - nn_metrics.csv
 
-##### raw - The starting data from manipulated excel raw data from [ArmchairAnalysis.com][2].  The original excel data was reduced to 2019 excel data for players and teams.  Other manipulations were done in excel including linking and aggregating the data.
+##### raw - The starting data from manipulated excel raw data from [ArmchairAnalysis.com][2].
+The original excel data was reduced to 2019 excel data for players and teams.  Other manipulations were done in excel including linking and aggregating the data.
 
 - bye.csv - raw data for bye weeks fo each team in 2019
 - conv.csv - raw data on touchdown conversions by player
@@ -64,9 +65,10 @@ The data science directory containing the following Colab notebooks and data:
 - players_full.csv - initial full list of all 2019 players
 - players_full1.csv - final enhanced list of 2019 players
 - rookies.csv - raw data on 2019 rookies 
-- rookies_non_kicker.csv
-- rookies_non_offense.csv
-- td.csv
+- rookies_non.csv - raw data on all non-rookie 2019 players
+- rookies_non_kicker.csv - raw data on all non-rookie 2019 kickers
+- rookies_non_offense.csv - raw data on all non-rookie 2019 offensive players
+- td.csv - raw data ob touchdowns by player (both QB and receiver/rusher)
 
 ##### rnn-combined
 
