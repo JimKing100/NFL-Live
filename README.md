@@ -5,10 +5,12 @@ You can find the app at [https://nfl-trade.herokuapp.com][1]
 
 ### Contents
 
-### data-science<br>
+### data-science
+
 The data science directory containing the following Colab notebooks and data:
 
 #### actuals - The Colab notebooks calculating the actual fantasy football points for each 2019 NFL player
+
 - Actuals_Defense.ipynb
 - Actuals_Kicker.ipynb
 - Actuals_Offense.ipynb
@@ -89,6 +91,7 @@ The data science directory containing the following Colab notebooks and data:
 - MetricsNN_PvA.ipynb
 
 #### model-arima - The Colab notebooks calculating the ARIMA model predicted fantasy football points for each 2019 NFL player
+
 - Predictions_Combined.ipynb
 - Predictions_Defense.ipynb
 - Predictions_Offense.ipynb
@@ -96,26 +99,31 @@ The data science directory containing the following Colab notebooks and data:
 - Predictions_Rookies_2_to_17.ipynb
 
 #### model-rnn - The Colab notebooks calculating the RNN model predicted fantasy football points for each 2019 NFL player
+
 - Predictions_Combined.ipynb
 - Predictions_Defense.ipynb
 - Predictions_Offense.ipynb
 
 #### players - The Colab notebook creating the detailed 2019 NFL player list
+
 - Players_Full.ipynb
 
 ### data
+
 The data directory containing the final production data for the Dash app
 
 - players_full.csv
 - predictions-week(1-17).csv
 
 ### metrics
+
 The metrics directory containing the final metrics data for the Dash app
 
 - ban_metrics.csv
 - metrics.csv
 
 ### tabs
+
 The tabs directory containing the code for the Dash tabs
 
 - evaluate.py
@@ -123,6 +131,7 @@ The tabs directory containing the code for the Dash tabs
 - predict.py
 
 ### main app
+
 - Procfile
 - app.py
 - index.py
