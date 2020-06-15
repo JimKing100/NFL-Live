@@ -5,7 +5,8 @@ You can find the app at [https://nfl-trade.herokuapp.com][1]
 
 ### Contents
 
-### data-science<br>The data science directory containing the following Colab notebooks and data:
+### data-science<br>
+The data science directory containing the following Colab notebooks and data:
 
 #### actuals - The Colab notebooks calculating the actual fantasy football points for each 2019 NFL player
 - Actuals_Defense.ipynb
