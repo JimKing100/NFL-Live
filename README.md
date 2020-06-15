@@ -117,6 +117,11 @@ The data directory containing the final production data for the Dash app
 
 ### metrics
 
+The metrics directory containing the final metrics data for the Dash app
+
+- ban_metrics.csv
+- metrics.csv
+
 ### tabs
 
 ### main app
