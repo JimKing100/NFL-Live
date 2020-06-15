@@ -21,6 +21,57 @@ The data science directory containing the following Colab notebooks and data:
 
 #### data
 
+##### actuals
+
+- actuals_defense.csv
+- actuals_kickers.csv
+- actuals_offense.csv
+- actuals_rookie2019_kickers.csv
+- actuals_rookie2019_offense.csv
+- actuals_rookie_kicker.csv
+- actuals_rookie_offense.csv
+
+##### arima_combined
+
+- predictions-week(1-17).csv
+
+##### arima
+
+- week(1-17)-pred-defense.csv
+- week(1-17)-pred-offense-norookies.csv
+- week(1-17)-pred-offense-rookies.csv
+
+##### metrics
+
+- ab_metrics.csv
+- arima_metrics.csv
+- ban_metrics.csv
+- metrics.csv
+- nb_metrics.csv
+- nn_metrics.csv
+
+##### raw
+
+- bye.csv
+- conv.csv
+- defense.csv
+- game.csv
+- injury.csv
+- kicking.csv
+- missedfg.csv
+- offense.csv
+- players.csv
+- players_full.csv
+- players_full1.csv
+- rookies.csv
+- rookies_non.csv
+- rookies_non_kicker.csv
+- rookies_non_offense.csv
+- td.csv
+
+##### rnn-combined
+##### rnn
+
 #### metrics
 
 #### model-arima
