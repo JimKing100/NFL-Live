@@ -110,6 +110,11 @@ The data science directory containing the following Colab notebooks and data:
 
 ### data
 
+The data directory containing the final production data for the Dash app
+
+- players_full.csv
+- predictions-week(1-17).csv
+
 ### metrics
 
 ### tabs
