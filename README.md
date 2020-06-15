@@ -7,6 +7,20 @@ You can find the app at [https://nfl-trade.herokuapp.com][1]
 
 #### data-science
 
+The data science directory containing the following Colab notebooks and data:
+
+##### actuals
+
+##### data
+
+##### metrics
+
+##### model-arima
+
+##### model-rnn
+
+##### players
+
 #### data
 
 #### metrics
