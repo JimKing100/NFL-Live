@@ -9,7 +9,7 @@ You can find the app at [https://nfl-trade.herokuapp.com][1]
 
 The data science directory containing the following Colab notebooks and data:
 
-#### actuals - The Colab notebooks used to calculate the actual fantasy football points for each 2019 NFL player
+#### actuals - The Colab notebooks calculating the actual fantasy football points for each 2019 NFL player
 
 - Actuals_Defense.ipynb
 - Actuals_Kicker.ipynb
@@ -82,13 +82,31 @@ The data science directory containing the following Colab notebooks and data:
 - **te** - directory containing week(1-17)-pred-offense-norookies-te.csv
 - **wr** - directory containing week(1-17)-pred-offense-norookies-wr.csv
 
-#### metrics
+#### metrics - The Colab notebooks used to create the performance metrics and graphs
 
-#### model-arima
+- Graphs.ipynb
+- MetricsARIMA_MAE.ipynb
+- MetricsARIMA_PvA.ipynb
+- MetricsNN_MAE.ipynb
+- MetricsNN_PvA.ipynb
 
-#### model-rnn
+#### model-arima - The Colab notebooks calculating the ARIMA model predicted fantasy football points for each 2019 NFL player
 
-#### players
+- Predictions_Combined.ipynb
+- Predictions_Defense.ipynb
+- Predictions_Offense.ipynb
+- Predictions_Rookies_1.ipynb
+- Predictions_Rookies_2_to_17.ipynb
+
+#### model-rnn - The Colab notebooks calculating the RNN model predicted fantasy football points for each 2019 NFL player
+
+- Predictions_Combined.ipynb
+- Predictions_Defense.ipynb
+- Predictions_Offense.ipynb
+
+#### players - The Colab notebook creating the detailed 2019 NFL player list
+
+- Players_Full.ipynb
 
 ### data
 
