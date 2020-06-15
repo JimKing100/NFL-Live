@@ -124,7 +124,18 @@ The metrics directory containing the final metrics data for the Dash app
 
 ### tabs
 
+The tabs directory containing the code for the Dash tabs
+
+- evaluate.py
+- explain.py
+- predict.py
+
 ### main app
+
+- Procfile
+- app.py
+- index.py
+- requirements.txt
 
 
 [1]: <https://nfl-trade.herokuapp.com>
