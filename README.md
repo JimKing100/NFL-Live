@@ -20,6 +20,7 @@ The data science directory containing the following Colab notebooks and data:
 #### data - The raw and calculated data used in the models
 
 ##### actuals
+
 - actuals_defense.csv
 - actuals_kickers.csv
 - actuals_offense.csv
@@ -29,14 +30,17 @@ The data science directory containing the following Colab notebooks and data:
 - actuals_rookie_offense.csv
 
 ##### arima_combined
+
 - predictions-week(1-17).csv
 
 ##### arima
+
 - week(1-17)-pred-defense.csv
 - week(1-17)-pred-offense-norookies.csv
 - week(1-17)-pred-offense-rookies.csv
 
 ##### metrics
+
 - ab_metrics.csv
 - arima_metrics.csv
 - ban_metrics.csv
@@ -45,6 +49,7 @@ The data science directory containing the following Colab notebooks and data:
 - nn_metrics.csv
 
 ##### raw
+
 - bye.csv
 - conv.csv
 - defense.csv
@@ -63,9 +68,11 @@ The data science directory containing the following Colab notebooks and data:
 - td.csv
 
 ##### rnn-combined
+
 - predictions-week(1-17).csv
 
 ##### rnn
+
 - **df** - directory containing week(1-17)-pred-defense.csv
 - **ki** - directory containing week(1-17)-pred-offense-norookies-k.csv
 - **qb** - directory containing week(1-17)-pred-offense-norookies-qb.csv
@@ -74,6 +81,7 @@ The data science directory containing the following Colab notebooks and data:
 - **wr** - directory containing week(1-17)-pred-offense-norookies-wr.csv
 
 #### metrics - The Colab notebooks used to create the performance metrics and graphs
+
 - Graphs.ipynb
 - MetricsARIMA_MAE.ipynb
 - MetricsARIMA_PvA.ipynb
