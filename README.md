@@ -11,25 +11,25 @@ The data science directory containing the following Colab notebooks and data:
 
 #### *actuals* - The Colab notebooks calculating the actual fantasy football points for each 2019 NFL player
 
-- Actuals_Defense.ipynb
-- Actuals_Kicker.ipynb
-- Actuals_Offense.ipynb
-- Actuals_Rookie_2019_Kickers.ipynb
-- Actuals_Rookie_2019_Offense.ipynb
-- Actuals_Rookie_Kickers.ipynb
-- Actuals_Roookie_Offense.ipynb
+- Actuals_Defense.ipynb - calculate actuals for each team defense
+- Actuals_Kicker.ipynb - calculate actuals for each kicker
+- Actuals_Offense.ipynb - calculate actuals for each offensive player (QB, RB, TE, WR)
+- Actuals_Rookie_2019_Kickers.ipynb - calculate actuals for each 2019 rookie kicker
+- Actuals_Rookie_2019_Offense.ipynb - calculate actuals for each 2019 rookie offensive player
+- Actuals_Rookie_Kickers.ipynb - calculate actuals for non-rookie kickers in their rookie year
+- Actuals_Roookie_Offense.ipynb - calculate actuals for non-rookie offensive players in their rookie year
 
 #### *data* - The raw and calculated data used in the models
 
-##### actuals
+##### actuals - the actual points for each 2019 player for each game from 2000-2019
 
-- actuals_defense.csv
-- actuals_kickers.csv
-- actuals_offense.csv
-- actuals_rookie2019_kickers.csv
-- actuals_rookie2019_offense.csv
-- actuals_rookie_kicker.csv
-- actuals_rookie_offense.csv
+- actuals_defense.csv - the actual points for each team defense
+- actuals_kickers.csv - the actual points for each kicker
+- actuals_offense.csv - the actual points for each offensive player
+- actuals_rookie2019_kickers.csv - the actual points for each 2019 rookie kicker
+- actuals_rookie2019_offense.csv - the actual points for each 2019 rookie offensive player
+- actuals_rookie_kicker.csv - the actual points for each non-rookie kicker in their rookie year
+- actuals_rookie_offense.csv - the actual points for each non-rookie offensive player in their rookie year
 
 ##### arima_combined
 
