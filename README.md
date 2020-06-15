@@ -21,7 +21,7 @@ The data science directory containing the following Colab notebooks and data:
 
 #### *data* - The raw and calculated data used in the models
 
-##### actuals - the actual points for each 2019 player for each game from 2000-2019
+##### actuals - The actual points for each 2019 player for each game from 2000-2019
 
 - actuals_defense.csv - the actual points for each team defense
 - actuals_kickers.csv - the actual points for each kicker
@@ -31,15 +31,15 @@ The data science directory containing the following Colab notebooks and data:
 - actuals_rookie_kicker.csv - the actual points for each non-rookie kicker in their rookie year
 - actuals_rookie_offense.csv - the actual points for each non-rookie offensive player in their rookie year
 
-##### arima_combined
+##### arima_combined - The final combined ARIMA model predicted points for each week of the 2019 season
 
-- predictions-week(1-17).csv
+- predictions-week(1-17).csv - the weekly (weeks 1-17) ARIMA model predictions for all players in 2019
 
-##### arima
+##### arima - The ARIMA model predicted points for defenses and non-rookie players, XGBoost predicted points for rookies
 
-- week(1-17)-pred-defense.csv
-- week(1-17)-pred-offense-norookies.csv
-- week(1-17)-pred-offense-rookies.csv
+- week(1-17)-pred-defense.csv - the ARIMA model predicted points for defenses for weeks 1-17
+- week(1-17)-pred-offense-norookies.csv - the ARIMA model predicted points for non-rookie offensive players for weeks 1-17
+- week(1-17)-pred-offense-rookies.csv - the XGBoost model predicted points for rookies for weeks 1-17
 
 ##### metrics
 
