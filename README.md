@@ -70,18 +70,19 @@ The original excel data was reduced to 2019 excel data for players and teams.  O
 - rookies_non_offense.csv - raw data on all non-rookie 2019 offensive players
 - td.csv - raw data ob touchdowns by player (both QB and receiver/rusher)
 
-##### rnn-combined
+##### rnn-combined - The final combined RNN model predicted points for each week of the 2019 season
 
-- predictions-week(1-17).csv
+- predictions-week(1-17).csv - the weekly (weeks 1-17) RNN model predictions for all players in 2019
 
-##### rnn
+##### rnn - The RNN model predicted points for defenses and non-rookie players
+The RNN model is resource instensive and for time purposes were run by position with the data output by position.  Rookie points were calculated using an XGBoost model (see arima data directory for rookie results).
 
-- **df** - directory containing week(1-17)-pred-defense.csv
-- **ki** - directory containing week(1-17)-pred-offense-norookies-k.csv
-- **qb** - directory containing week(1-17)-pred-offense-norookies-qb.csv
-- **rb** - directory containing week(1-17)-pred-offense-norookies-rb.csv
-- **te** - directory containing week(1-17)-pred-offense-norookies-te.csv
-- **wr** - directory containing week(1-17)-pred-offense-norookies-wr.csv
+- **df** - directory containing week(1-17)-pred-defense.csv, the defensive predicted points for weeks 1-17
+- **ki** - directory containing week(1-17)-pred-offense-norookies-k.csv, the non-rookie kicker predicted points for weeks 1-17
+- **qb** - directory containing week(1-17)-pred-offense-norookies-qb.csv, the non-rookie QB predicted points for weeks 1-17
+- **rb** - directory containing week(1-17)-pred-offense-norookies-rb.csv, the non-rookie RB predicted points for weeks 1-17
+- **te** - directory containing week(1-17)-pred-offense-norookies-te.csv, the non-rookie TE predicted points for weeks 1-17
+- **wr** - directory containing week(1-17)-pred-offense-norookies-wr.csv, the non-rookie WR predicted points for weeks 1-17
 
 #### *metrics* - The Colab notebooks used to create the performance metrics and graphs
 
