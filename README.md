@@ -9,7 +9,7 @@ You can find the app at [https://nfl-trade.herokuapp.com][1]
 
 The data science directory containing the following Colab notebooks and data:
 
-#### actuals - The Colab notebooks calculating the actual fantasy football points for each 2019 NFL player
+#### *actuals* - The Colab notebooks calculating the actual fantasy football points for each 2019 NFL player
 
 - Actuals_Defense.ipynb
 - Actuals_Kicker.ipynb
@@ -19,7 +19,7 @@ The data science directory containing the following Colab notebooks and data:
 - Actuals_Rookie_Kickers.ipynb
 - Actuals_Roookie_Offense.ipynb
 
-#### data - The raw and calculated data used in the models
+#### *data* - The raw and calculated data used in the models
 
 ##### actuals
 
