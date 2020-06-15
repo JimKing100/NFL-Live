@@ -70,7 +70,17 @@ The data science directory containing the following Colab notebooks and data:
 - td.csv
 
 ##### rnn-combined
+
+- predictions-week(1-17).csv
+
 ##### rnn
+
+- **df** - directory containing week(1-17)-pred-defense.csv
+- **ki** - directory containing week(1-17)-pred-offense-norookies-k.csv
+- **qb** - directory containing week(1-17)-pred-offense-norookies-qb.csv
+- **rb** - directory containing week(1-17)-pred-offense-norookies-rb.csv
+- **te** - directory containing week(1-17)-pred-offense-norookies-te.csv
+- **wr** - directory containing week(1-17)-pred-offense-norookies-wr.csv
 
 #### metrics
 
