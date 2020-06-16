@@ -45,7 +45,7 @@ The data science directory containing the following Colab notebooks and data:
 
 - ab_metrics.csv - the stats comparing the correct predictions for the Average model vs the ARIMA model
 - arima_metrics.csv - the stats comparing the MAE for the Average model vs the ARIMA model
-- ban_metrics.csv - the combined MAE and percent correct stats for Average, ARIMA and RNN models
+- ban_metrics.csv - the combined percent correct stats for Average, ARIMA and RNN models
 - metrics.csv - the combined MAE stats for Average, ARIMA and RNN models
 - nb_metrics.csv - the stats comparing the correct predictions for the Average model vs the RNN model
 - nn_metrics.csv - the stats comparing the MAE for the Average model vs the RNN model
@@ -114,30 +114,30 @@ The RNN model is resource instensive and for time purposes were run by position 
 
 The data directory containing the final production data for the Dash app
 
-- players_full.csv
-- predictions-week(1-17).csv
+- players_full1.csv - the final enhanced player list including bye week and injury week
+- predictions-week(1-17).csv - the final RNN predictions
 
 ### metrics
 
 The metrics directory containing the final metrics data for the Dash app
 
-- ban_metrics.csv
-- metrics.csv
+- ban_metrics.csv - the final percent correct stats for Average, ARIMA and RNN models
+- metrics.csv - the final combined MAE stats for Average, ARIMA and RNN models
 
 ### tabs
 
 The tabs directory containing the code for the Dash tabs
 
-- evaluate.py
-- explain.py
-- predict.py
+- evaluate.py - the code for the Evaluate tab
+- explain.py - the code for the Methodology tab
+- predict.py - the code for the Trade tab
 
 ### main app
 
-- Procfile
-- app.py
-- index.py
-- requirements.txt
+- Procfile - the Procfile for Heroku
+- app.py - initiates the Dash app
+- index.py - the main Dash code with the layout and callback
+- requirements.txt - the environment file for Heroku
 
 
 [1]: <https://nfl-trade.herokuapp.com>
