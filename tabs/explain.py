@@ -6,7 +6,7 @@ layout = [dcc.Markdown("""
 #### Introduction
 
 NFL fantasy football is a game in which football fans take on the role of the coach or general manager
-of a pro football team.  Partipants draft their initial teams, select players to play each week and trade players
+of a pro football team.  Participants draft their initial teams, select players to play each week and trade players
 in order to compete weekly during a season against other teams.  The winning teams are determined by the
 real-life statistics of the pro athletes.
 
