@@ -43,12 +43,12 @@ The data science directory containing the following Colab notebooks and data:
 
 ##### metrics
 
-- ab_metrics.csv
-- arima_metrics.csv
-- ban_metrics.csv
-- metrics.csv
-- nb_metrics.csv
-- nn_metrics.csv
+- ab_metrics.csv - the stats comparing the correct predictions for the Average model vs the ARIMA model
+- arima_metrics.csv - the stats comparing the MAE for the Average model vs the ARIMA model
+- ban_metrics.csv - the combined MAE and percent correct stats for Average, ARIMA and RNN models
+- metrics.csv - the combined MAE stats for Average, ARIMA and RNN models
+- nb_metrics.csv - the stats comparing the correct predictions for the Average model vs the RNN model
+- nn_metrics.csv - the stats comparing the MAE for the Average model vs the RNN model
 
 ##### raw - The starting data from manipulated excel raw data from [ArmchairAnalysis.com][2].
 The original excel data was reduced to 2019 excel data for players and teams.  Other manipulations were done in excel including linking and aggregating the data.
@@ -94,21 +94,21 @@ The RNN model is resource instensive and for time purposes were run by position 
 
 #### *model-arima* - The Colab notebooks calculating the ARIMA model predicted fantasy football points for each 2019 NFL player
 
-- Predictions_Combined.ipynb
-- Predictions_Defense.ipynb
-- Predictions_Offense.ipynb
-- Predictions_Rookies_1.ipynb
-- Predictions_Rookies_2_to_17.ipynb
+- Predictions_Combined.ipynb - code to combine the defense, offense and rookie ARIMA predictions for all 2019 weeks
+- Predictions_Defense.ipynb - code to create the team defense ARIMA predictions for all 2019 weeks
+- Predictions_Offense.ipynb - code to create the offensive player ARIMA predictions for all 2019 weeks
+- Predictions_Rookies_1.ipynb - code to create the rookie player XGBoost predictions for week 1 of 2019
+- Predictions_Rookies_2_to_17.ipynb - code to create the rookie player Average predictions for weeks 2-17 for 2019
 
 #### *model-rnn* - The Colab notebooks calculating the RNN model predicted fantasy football points for each 2019 NFL player
 
-- Predictions_Combined.ipynb
-- Predictions_Defense.ipynb
-- Predictions_Offense.ipynb
+- Predictions_Combined.ipynb - code to combine the defense, offense and rookie RNN predictions for all 2019 weeks
+- Predictions_Defense.ipynb - code to create the team defense RNN predictions for all 2019 weeks
+- Predictions_Offense.ipynb - code to create the offensive player RNN predictions for all 2019 weeks
 
 #### *players* - The Colab notebook creating the detailed 2019 NFL player list
 
-- Players_Full.ipynb
+- Players_Full.ipynb - code to create an enhanced list (includes bye week and injury week) of all 2019 NFL players
 
 ### data
 
