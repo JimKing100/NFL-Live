@@ -86,11 +86,11 @@ The RNN model is resource instensive and for time purposes were run by position 
 
 #### *metrics* - The Colab notebooks used to create the performance metrics and graphs
 
-- Graphs.ipynb
-- MetricsARIMA_MAE.ipynb
-- MetricsARIMA_PvA.ipynb
-- MetricsNN_MAE.ipynb
-- MetricsNN_PvA.ipynb
+- Graphs.ipynb - create the two performance graphs using plotly express
+- MetricsARIMA_MAE.ipynb - calculate the MAE for the ARIMA model for weeks 1-17
+- MetricsARIMA_PvA.ipynb - calculate the percentage correct for predictions vs. actuals for the ARIMA model for weeks 1-17
+- MetricsNN_MAE.ipynb - calculate the MAE for the RNN model for weeks 1-17
+- MetricsNN_PvA.ipynb - calculate the percentage correct for predictions vs. actuals for the RNN model for weeks 1-17
 
 #### *model-arima* - The Colab notebooks calculating the ARIMA model predicted fantasy football points for each 2019 NFL player
 
