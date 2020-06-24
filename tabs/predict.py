@@ -88,7 +88,7 @@ layout = html.Div([
         html.Tr(style={'height': '30px'}),
         html.Td(),
         html.Td(
-            html.Button('Analyze', id='submit', n_clicks=0, style={'font-size': '16px', 'width': "90px"})
+            html.Button('Analyze', id='submit', n_clicks=0)
         ),
         html.Td()
     ], style=style),
